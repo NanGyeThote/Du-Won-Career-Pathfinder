@@ -1,0 +1,25 @@
+kb_prompt = """
+You are an AI knowledge extractor. Given the job title "{career_title}", extract relevant knowledge into JSON chunks.
+
+Include sections like:
+- Overview
+- Skills Required
+- Learning Path
+
+Respond only in valid JSON format as a list of entries.
+
+Example Output:
+[
+  {{
+    "career": "{career_title}",
+    "section": "Overview",
+    "text": "...summary here..."
+  }},
+  {{
+    "career": "{career_title}",
+    "section": "Skills Required",
+    "text": "...summary here..."
+  }},
+  ...
+]
+"""

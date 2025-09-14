@@ -1,0 +1,73 @@
+[
+  {
+    "job_id": "4523221000",
+    "category": "AI/ML-ENGINEER",
+    "job_title": "AI/ML Engineer",
+    "job_description": "An AI/ML Engineer develops and implements machine learning models and algorithms to solve complex problems and enhance data-driven decision making. They work on designing scalable solutions and deploying AI systems in real-world applications.",
+    "job_skill_set": [
+      "Python",
+      "Machine Learning",
+      "Deep Learning",
+      "Data Analysis",
+      "TensorFlow",
+      "PyTorch"
+    ],
+    "unified_document": "Job Title: AI/ML Engineer. Overview: An AI/ML Engineer develops and implements machine learning models and algorithms to solve complex problems and enhance data-driven decision making. They work on designing scalable solutions and deploying AI systems in real-world applications. Skills Required: Python, Machine Learning, Deep Learning, Data Analysis, TensorFlow, PyTorch. Learning Path: Gain proficiency in programming languages like Python, study machine learning algorithms, and practice deploying models using frameworks such as TensorFlow or PyTorch."
+  },
+  {
+    "job_id": "4760670793",
+    "category": "AI/ML-ENGINEER",
+    "job_title": "AI/ML Engineer",
+    "job_description": "This role involves building and optimizing machine learning models, working closely with data scientists and software engineers to integrate AI solutions into products and services. A strong foundation in statistical analysis and programming is essential.",
+    "job_skill_set": [
+      "Python",
+      "Statistical Analysis",
+      "Model Optimization",
+      "Data Engineering",
+      "Scikit-learn"
+    ],
+    "unified_document": "Job Title: AI/ML Engineer. Overview: This role involves building and optimizing machine learning models, working closely with data scientists and software engineers to integrate AI solutions into products and services. A strong foundation in statistical analysis and programming is essential. Skills Required: Python, Statistical Analysis, Model Optimization, Data Engineering, Scikit-learn. Learning Path: Develop programming skills, learn statistical methods, and gain experience with machine learning libraries like Scikit-learn."
+  },
+  {
+    "job_id": "2785953289",
+    "category": "AI/ML-ENGINEER",
+    "job_title": "AI/ML Engineer",
+    "job_description": "An AI/ML Engineer focuses on designing intelligent systems by applying machine learning and artificial intelligence techniques. They are involved in data preprocessing, model training, and deploying AI solutions at scale.",
+    "job_skill_set": [
+      "Python",
+      "Data Preprocessing",
+      "Model Deployment",
+      "Cloud Computing",
+      "Keras"
+    ],
+    "unified_document": "Job Title: AI/ML Engineer. Overview: An AI/ML Engineer focuses on designing intelligent systems by applying machine learning and artificial intelligence techniques. They are involved in data preprocessing, model training, and deploying AI solutions at scale. Skills Required: Python, Data Preprocessing, Model Deployment, Cloud Computing, Keras. Learning Path: Learn data handling, master machine learning frameworks, and explore cloud platforms for deploying AI models."
+  },
+  {
+    "job_id": "7768061576",
+    "category": "AI/ML-ENGINEER",
+    "job_title": "AI/ML Engineer",
+    "job_description": "This position entails developing innovative AI and machine learning solutions, often requiring knowledge of neural networks, natural language processing, and computer vision to create advanced intelligent systems.",
+    "job_skill_set": [
+      "Neural Networks",
+      "Natural Language Processing",
+      "Computer Vision",
+      "Python",
+      "OpenCV"
+    ],
+    "unified_document": "Job Title: AI/ML Engineer. Overview: This position entails developing innovative AI and machine learning solutions, often requiring knowledge of neural networks, natural language processing, and computer vision to create advanced intelligent systems. Skills Required: Neural Networks, Natural Language Processing, Computer Vision, Python, OpenCV. Learning Path: Study neural network architectures, explore NLP and computer vision techniques, and practice implementing these with relevant libraries."
+  },
+  {
+    "job_id": "6176154257",
+    "category": "AI/ML-ENGINEER",
+    "job_title": "AI/ML Engineer",
+    "job_description": "An AI/ML Engineer is responsible for creating scalable AI models, analyzing large datasets, and continuously improving machine learning algorithms to meet evolving business needs.",
+    "job_skill_set": [
+      "Big Data",
+      "Model Scalability",
+      "Data Mining",
+      "Python",
+      "Spark"
+    ],
+    "unified_document": "Job Title: AI/ML Engineer. Overview: An AI/ML Engineer is responsible for creating scalable AI models, analyzing large datasets, and continuously improving machine learning algorithms to meet evolving business needs. Skills Required: Big Data, Model Scalability, Data Mining, Python, Spark. Learning Path: Develop skills in handling big data technologies, learn about scalable machine learning, and practice data mining techniques."
+  }
+]

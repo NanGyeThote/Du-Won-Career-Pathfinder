@@ -1,0 +1,2446 @@
+[
+  {
+    "job_id": "4523221000",
+    "category": "AI/ML-ENGINEER",
+    "job_title": "AI/ML Engineer",
+    "job_description": "An AI/ML Engineer develops and implements machine learning models and algorithms to solve complex problems and enhance data-driven decision making. They work on designing scalable solutions and deploying AI systems in real-world applications.",
+    "job_skill_set": [
+      "Python",
+      "Machine Learning",
+      "Deep Learning",
+      "Data Analysis",
+      "TensorFlow",
+      "PyTorch"
+    ],
+    "unified_document": "Job Title: AI/ML Engineer. Overview: An AI/ML Engineer develops and implements machine learning models and algorithms to solve complex problems and enhance data-driven decision making. They work on designing scalable solutions and deploying AI systems in real-world applications. Skills Required: Python, Machine Learning, Deep Learning, Data Analysis, TensorFlow, PyTorch. Learning Path: Gain proficiency in programming languages like Python, study machine learning algorithms, and practice deploying models using frameworks such as TensorFlow or PyTorch."
+  },
+  {
+    "job_id": "4760670793",
+    "category": "AI/ML-ENGINEER",
+    "job_title": "AI/ML Engineer",
+    "job_description": "This role involves building and optimizing machine learning models, working closely with data scientists and software engineers to integrate AI solutions into products and services. A strong foundation in statistical analysis and programming is essential.",
+    "job_skill_set": [
+      "Python",
+      "Statistical Analysis",
+      "Model Optimization",
+      "Data Engineering",
+      "Scikit-learn"
+    ],
+    "unified_document": "Job Title: AI/ML Engineer. Overview: This role involves building and optimizing machine learning models, working closely with data scientists and software engineers to integrate AI solutions into products and services. A strong foundation in statistical analysis and programming is essential. Skills Required: Python, Statistical Analysis, Model Optimization, Data Engineering, Scikit-learn. Learning Path: Develop programming skills, learn statistical methods, and gain experience with machine learning libraries like Scikit-learn."
+  },
+  {
+    "job_id": "2785953289",
+    "category": "AI/ML-ENGINEER",
+    "job_title": "AI/ML Engineer",
+    "job_description": "An AI/ML Engineer focuses on designing intelligent systems by applying machine learning and artificial intelligence techniques. They are involved in data preprocessing, model training, and deploying AI solutions at scale.",
+    "job_skill_set": [
+      "Python",
+      "Data Preprocessing",
+      "Model Deployment",
+      "Cloud Computing",
+      "Keras"
+    ],
+    "unified_document": "Job Title: AI/ML Engineer. Overview: An AI/ML Engineer focuses on designing intelligent systems by applying machine learning and artificial intelligence techniques. They are involved in data preprocessing, model training, and deploying AI solutions at scale. Skills Required: Python, Data Preprocessing, Model Deployment, Cloud Computing, Keras. Learning Path: Learn data handling, master machine learning frameworks, and explore cloud platforms for deploying AI models."
+  },
+  {
+    "job_id": "7768061576",
+    "category": "AI/ML-ENGINEER",
+    "job_title": "AI/ML Engineer",
+    "job_description": "This position entails developing innovative AI and machine learning solutions, often requiring knowledge of neural networks, natural language processing, and computer vision to create advanced intelligent systems.",
+    "job_skill_set": [
+      "Neural Networks",
+      "Natural Language Processing",
+      "Computer Vision",
+      "Python",
+      "OpenCV"
+    ],
+    "unified_document": "Job Title: AI/ML Engineer. Overview: This position entails developing innovative AI and machine learning solutions, often requiring knowledge of neural networks, natural language processing, and computer vision to create advanced intelligent systems. Skills Required: Neural Networks, Natural Language Processing, Computer Vision, Python, OpenCV. Learning Path: Study neural network architectures, explore NLP and computer vision techniques, and practice implementing these with relevant libraries."
+  },
+  {
+    "job_id": "6176154257",
+    "category": "AI/ML-ENGINEER",
+    "job_title": "AI/ML Engineer",
+    "job_description": "An AI/ML Engineer is responsible for creating scalable AI models, analyzing large datasets, and continuously improving machine learning algorithms to meet evolving business needs.",
+    "job_skill_set": [
+      "Big Data",
+      "Model Scalability",
+      "Data Mining",
+      "Python",
+      "Spark"
+    ],
+    "unified_document": "Job Title: AI/ML Engineer. Overview: An AI/ML Engineer is responsible for creating scalable AI models, analyzing large datasets, and continuously improving machine learning algorithms to meet evolving business needs. Skills Required: Big Data, Model Scalability, Data Mining, Python, Spark. Learning Path: Develop skills in handling big data technologies, learn about scalable machine learning, and practice data mining techniques."
+  },
+  {
+    "job_id": "7021624543",
+    "category": "AI/ML-ENGINEER",
+    "job_title": "AI/ML Engineer",
+    "job_description": "An AI/ML Engineer develops and implements machine learning models and algorithms to solve complex problems and enhance data-driven decision making.",
+    "job_skill_set": [
+      "Python",
+      "Machine Learning",
+      "Deep Learning",
+      "Data Analysis",
+      "TensorFlow",
+      "PyTorch"
+    ],
+    "unified_document": "Job Title: AI/ML Engineer. Overview: Responsible for designing, developing, and deploying machine learning models to solve real-world problems. Skills Required: Python, ML frameworks, data analysis, and model optimization. Learning Path: Gain proficiency in programming, study ML algorithms, and work on practical projects."
+  },
+  {
+    "job_id": "2582119535",
+    "category": "AI/ML-ENGINEER",
+    "job_title": "AI/ML Engineer",
+    "job_description": "This role involves building scalable machine learning systems and integrating AI solutions into products and services.",
+    "job_skill_set": [
+      "Python",
+      "Scikit-learn",
+      "Deep Learning",
+      "Data Engineering",
+      "Model Deployment"
+    ],
+    "unified_document": "Job Title: AI/ML Engineer. Overview: Focuses on creating scalable AI models and deploying them into production environments. Skills Required: Python, ML libraries, data engineering, deployment techniques. Learning Path: Develop coding skills, learn about model deployment, and gain experience with cloud platforms."
+  },
+  {
+    "job_id": "7508583293",
+    "category": "AI/ML-ENGINEER",
+    "job_title": "AI/ML Engineer",
+    "job_description": "An AI/ML Engineer applies machine learning techniques to analyze data and develop predictive models for various applications.",
+    "job_skill_set": [
+      "R",
+      "Statistical Analysis",
+      "Machine Learning",
+      "Data Visualization",
+      "SQL"
+    ],
+    "unified_document": "Job Title: AI/ML Engineer. Overview: Utilizes statistical and machine learning methods to interpret data and build predictive models. Skills Required: R, statistics, data visualization, SQL. Learning Path: Study statistical methods, learn R programming, and practice data modeling."
+  },
+  {
+    "job_id": "1253981714",
+    "category": "AI/ML-ENGINEER",
+    "job_title": "AI/ML Engineer",
+    "job_description": "This position involves researching and developing new machine learning algorithms to improve AI system performance.",
+    "job_skill_set": [
+      "Research",
+      "Algorithm Development",
+      "Python",
+      "Mathematics",
+      "Deep Learning"
+    ],
+    "unified_document": "Job Title: AI/ML Engineer. Overview: Engages in research to innovate and optimize machine learning algorithms for better AI capabilities. Skills Required: Research skills, mathematics, Python, deep learning. Learning Path: Pursue advanced studies in AI, focus on algorithm design, and participate in research projects."
+  },
+  {
+    "job_id": "1860165220",
+    "category": "AI/ML-ENGINEER",
+    "job_title": "AI/ML Engineer",
+    "job_description": "The role involves developing AI models for natural language processing and computer vision applications.",
+    "job_skill_set": [
+      "NLP",
+      "Computer Vision",
+      "Python",
+      "TensorFlow",
+      "Data Annotation"
+    ],
+    "unified_document": "Job Title: AI/ML Engineer. Overview: Builds AI models for NLP and computer vision tasks to enable intelligent applications. Skills Required: NLP, computer vision, Python, data annotation. Learning Path: Study relevant AI domains, learn model training, and work on domain-specific datasets."
+  },
+  {
+    "job_id": "7454492708",
+    "category": "AI/ML-ENGINEER",
+    "job_title": "AI/ML Engineer",
+    "job_description": "Responsible for designing machine learning pipelines and ensuring their robustness and efficiency in production environments.",
+    "job_skill_set": [
+      "Pipeline Engineering",
+      "Python",
+      "Data Engineering",
+      "Model Optimization",
+      "Cloud Computing"
+    ],
+    "unified_document": "Job Title: AI/ML Engineer. Overview: Designs and maintains machine learning pipelines for scalable deployment. Skills Required: Data engineering, Python, cloud platforms, model optimization. Learning Path: Learn pipeline tools, cloud services, and best practices in deployment."
+  },
+  {
+    "job_id": "7487514301",
+    "category": "AI/ML-ENGINEER",
+    "job_title": "AI/ML Engineer",
+    "job_description": "This role involves collaborating with cross-functional teams to develop AI solutions tailored to business needs.",
+    "job_skill_set": [
+      "Team Collaboration",
+      "Python",
+      "Business Analysis",
+      "AI Solution Design",
+      "Data Management"
+    ],
+    "unified_document": "Job Title: AI/ML Engineer. Overview: Works with teams to create AI solutions aligned with organizational goals. Skills Required: Collaboration, Python, business understanding, data management. Learning Path: Develop communication skills, understand business processes, and learn AI application development."
+  },
+  {
+    "job_id": "8090114838",
+    "category": "AI/ML-ENGINEER",
+    "job_title": "AI/ML Engineer",
+    "job_description": "Involves evaluating and fine-tuning machine learning models to improve accuracy and performance.",
+    "job_skill_set": [
+      "Model Evaluation",
+      "Hyperparameter Tuning",
+      "Python",
+      "Data Analysis",
+      "ML Frameworks"
+    ],
+    "unified_document": "Job Title: AI/ML Engineer. Overview: Focuses on assessing and refining models to achieve optimal results. Skills Required: Model evaluation, hyperparameter tuning, Python, data analysis. Learning Path: Practice model validation, learn tuning techniques, and experiment with different algorithms."
+  },
+  {
+    "job_id": "6194105726",
+    "category": "AI/ML-ENGINEER",
+    "job_title": "AI/ML Engineer",
+    "job_description": "Develops and maintains AI systems that can learn from data and adapt over time.",
+    "job_skill_set": [
+      "Reinforcement Learning",
+      "Python",
+      "Adaptive Algorithms",
+      "Data Science",
+      "Simulation"
+    ],
+    "unified_document": "Job Title: AI/ML Engineer. Overview: Builds adaptive AI systems capable of learning and evolving through data. Skills Required: Reinforcement learning, Python, adaptive algorithms, data science. Learning Path: Study reinforcement learning principles, implement simulations, and analyze system performance."
+  },
+  {
+    "job_id": "7647128906",
+    "category": "AI/ML-ENGINEER",
+    "job_title": "AI/ML Engineer",
+    "job_description": "The role includes developing AI-powered tools and applications to automate tasks and improve efficiency.",
+    "job_skill_set": [
+      "Automation",
+      "Python",
+      "AI Application Development",
+      "APIs",
+      "Software Engineering"
+    ],
+    "unified_document": "Job Title: AI/ML Engineer. Overview: Creates AI-driven tools to automate processes and enhance productivity. Skills Required: Automation, Python, API development, software engineering. Learning Path: Learn software development best practices, API integration, and AI application design."
+  },
+  {
+    "job_id": "9775650504",
+    "category": "AI/ML-ENGINEER",
+    "job_title": "AI/ML Engineer",
+    "job_description": "Involves analyzing large datasets to extract insights and inform model development strategies.",
+    "job_skill_set": [
+      "Big Data",
+      "Data Mining",
+      "Python",
+      "SQL",
+      "Data Visualization"
+    ],
+    "unified_document": "Job Title: AI/ML Engineer. Overview: Analyzes extensive datasets to uncover patterns and guide AI model development. Skills Required: Big data tools, data mining, SQL, visualization. Learning Path: Master data analysis techniques, learn big data frameworks, and practice data storytelling."
+  },
+  {
+    "job_id": "1240029964",
+    "category": "AI/ML-ENGINEER",
+    "job_title": "AI/ML Engineer",
+    "job_description": "Responsible for staying updated with the latest AI research and integrating new techniques into projects.",
+    "job_skill_set": [
+      "Research",
+      "Literature Review",
+      "Python",
+      "AI Frameworks",
+      "Continuous Learning"
+    ],
+    "unified_document": "Job Title: AI/ML Engineer. Overview: Keeps abreast of AI advancements and applies cutting-edge techniques to projects. Skills Required: Research skills, Python, familiarity with AI literature, continuous learning. Learning Path: Read research papers, attend conferences, and experiment with new algorithms."
+  },
+  {
+    "job_id": "9479363341",
+    "category": "AI/ML-ENGINEER",
+    "job_title": "AI/ML Engineer",
+    "job_description": "Works on optimizing machine learning models for faster inference and lower resource consumption.",
+    "job_skill_set": [
+      "Model Optimization",
+      "Quantization",
+      "Python",
+      "Hardware Acceleration",
+      "Performance Tuning"
+    ],
+    "unified_document": "Job Title: AI/ML Engineer. Overview: Focuses on enhancing model efficiency for deployment in resource-constrained environments. Skills Required: Model optimization, quantization, hardware acceleration, performance tuning. Learning Path: Study optimization techniques, experiment with hardware, and profile models."
+  },
+  {
+    "job_id": "2573364369",
+    "category": "AI/ML-ENGINEER",
+    "job_title": "AI/ML Engineer",
+    "job_description": "Involves developing and maintaining AI models for real-time applications such as chatbots and recommendation systems.",
+    "job_skill_set": [
+      "Real-time Processing",
+      "Python",
+      "Streaming Data",
+      "NLP",
+      "Recommendation Algorithms"
+    ],
+    "unified_document": "Job Title: AI/ML Engineer. Overview: Builds real-time AI systems for interactive applications and recommendations. Skills Required: Real-time data processing, NLP, streaming frameworks, recommendation algorithms. Learning Path: Learn streaming technologies, NLP techniques, and deploy real-time models."
+  },
+  {
+    "job_id": "1251254979",
+    "category": "AI/ML-ENGINEER",
+    "job_title": "AI/ML Engineer",
+    "job_description": "Participates in the design of AI architectures and contributes to the development of scalable machine learning solutions.",
+    "job_skill_set": [
+      "System Design",
+      "Distributed Computing",
+      "Python",
+      "Scalability",
+      "Cloud Services"
+    ],
+    "unified_document": "Job Title: AI/ML Engineer. Overview: Designs scalable AI architectures suitable for large-scale deployment. Skills Required: System design, distributed computing, cloud platforms, scalability. Learning Path: Study distributed systems, cloud infrastructure, and scalable AI design principles."
+  },
+  {
+    "job_id": "4880059704",
+    "category": "AI/ML-ENGINEER",
+    "job_title": "AI/ML Engineer",
+    "job_description": "Focuses on creating explainable AI models to ensure transparency and trustworthiness of AI systems.",
+    "job_skill_set": [
+      "Explainability",
+      "Model Interpretability",
+      "Python",
+      "LIME",
+      "SHAP"
+    ],
+    "unified_document": "Job Title: AI/ML Engineer. Overview: Develops transparent AI models that provide insights into decision-making processes. Skills Required: Explainability techniques, interpretability, Python, LIME, SHAP. Learning Path: Learn about model interpretability methods and implement explainability tools."
+  },
+  {
+    "job_id": "7640016972",
+    "category": "AI/ML-ENGINEER",
+    "job_title": "AI/ML Engineer",
+    "job_description": "Engages in deploying AI models on edge devices and optimizing for low power consumption.",
+    "job_skill_set": [
+      "Edge Computing",
+      "Model Compression",
+      "Python",
+      "Embedded Systems",
+      "Power Optimization"
+    ],
+    "unified_document": "Job Title: AI/ML Engineer. Overview: Deploys and optimizes AI models for edge devices with limited resources. Skills Required: Edge computing, model compression, embedded systems, power management. Learning Path: Study embedded AI deployment, model pruning, and low-power hardware."
+  },
+  {
+    "job_id": "8862360543",
+    "category": "AI/ML-ENGINEER",
+    "job_title": "AI/ML Engineer",
+    "job_description": "Responsible for creating datasets and labeling data to support machine learning model training.",
+    "job_skill_set": [
+      "Data Labeling",
+      "Data Collection",
+      "Annotation Tools",
+      "Data Management",
+      "Quality Assurance"
+    ],
+    "unified_document": "Job Title: AI/ML Engineer. Overview: Prepares high-quality datasets through labeling and annotation to facilitate effective model training. Skills Required: Data labeling, annotation tools, data management, quality control. Learning Path: Learn data annotation techniques, use labeling tools, and understand data quality standards."
+  },
+  {
+    "job_id": "7669888365",
+    "category": "AI/ML-ENGINEER",
+    "job_title": "AI/ML Engineer",
+    "job_description": "Works on integrating AI models into existing software systems and APIs for end-user applications.",
+    "job_skill_set": [
+      "API Development",
+      "Software Integration",
+      "Python",
+      "REST",
+      "Microservices"
+    ],
+    "unified_document": "Job Title: AI/ML Engineer. Overview: Integrates AI models into software products via APIs and microservices for seamless user experiences. Skills Required: API development, software integration, Python, RESTful services. Learning Path: Study API design, microservices architecture, and deployment pipelines."
+  },
+  {
+    "job_id": "5901830042",
+    "category": "AI/ML-ENGINEER",
+    "job_title": "AI/ML Engineer",
+    "job_description": "Participates in ethical AI development by ensuring fairness, accountability, and transparency in models.",
+    "job_skill_set": [
+      "Ethical AI",
+      "Bias Detection",
+      "Fairness",
+      "Model Auditing",
+      "Regulatory Compliance"
+    ],
+    "unified_document": "Job Title: AI/ML Engineer. Overview: Ensures AI systems adhere to ethical standards, addressing bias and fairness issues. Skills Required: Ethical considerations, bias detection, model auditing, compliance. Learning Path: Study AI ethics, fairness metrics, and auditing techniques."
+  },
+  {
+    "job_id": "6194987874",
+    "category": "AI/ML-ENGINEER",
+    "job_title": "AI/ML Engineer",
+    "job_description": "Focuses on developing reinforcement learning agents for autonomous systems and robotics.",
+    "job_skill_set": [
+      "Reinforcement Learning",
+      "Robotics",
+      "Simulation",
+      "Python",
+      "Control Systems"
+    ],
+    "unified_document": "Job Title: AI/ML Engineer. Overview: Develops reinforcement learning agents for autonomous robots and systems. Skills Required: Reinforcement learning, robotics, simulation, control theory. Learning Path: Learn RL algorithms, robotics fundamentals, and simulation tools."
+  },
+  {
+    "job_id": "1302233438",
+    "category": "AI/ML-ENGINEER",
+    "job_title": "AI/ML Engineer",
+    "job_description": "An AI/ML Engineer develops and implements machine learning models and algorithms to solve complex problems and enhance data-driven decision making.",
+    "job_skill_set": [
+      "Python",
+      "Machine Learning",
+      "Deep Learning",
+      "Data Analysis",
+      "TensorFlow",
+      "PyTorch"
+    ],
+    "unified_document": "Job Title: AI/ML Engineer. Overview: Responsible for designing, developing, and deploying machine learning models to address real-world challenges. Skills Required: Python, ML frameworks, data analysis, and model optimization. Learning Path: Gain proficiency in programming, study ML algorithms, and work on practical projects."
+  },
+  {
+    "job_id": "3892706116",
+    "category": "AI/ML-ENGINEER",
+    "job_title": "AI/ML Engineer",
+    "job_description": "This role involves building scalable machine learning systems and integrating AI solutions into products and services.",
+    "job_skill_set": [
+      "Python",
+      "Scikit-learn",
+      "Data Engineering",
+      "Model Deployment",
+      "Cloud Computing"
+    ],
+    "unified_document": "Job Title: AI/ML Engineer. Overview: Focuses on creating scalable AI models and deploying them in production environments. Skills Required: Python, data engineering, cloud platforms, and deployment techniques. Learning Path: Develop coding skills, learn cloud services, and practice deploying models."
+  },
+  {
+    "job_id": "9939677929",
+    "category": "AI/ML-ENGINEER",
+    "job_title": "AI/ML Engineer",
+    "job_description": "An AI/ML Engineer applies machine learning techniques to analyze data and develop predictive models for various applications.",
+    "job_skill_set": [
+      "R",
+      "Statistical Analysis",
+      "Machine Learning",
+      "Data Visualization",
+      "SQL"
+    ],
+    "unified_document": "Job Title: AI/ML Engineer. Overview: Utilizes statistical and machine learning methods to interpret data and create predictive models. Skills Required: R, statistics, data visualization, and SQL. Learning Path: Study statistical methods, learn R programming, and work on data projects."
+  },
+  {
+    "job_id": "5952768518",
+    "category": "AI/ML-ENGINEER",
+    "job_title": "AI/ML Engineer",
+    "job_description": "This position involves researching and developing new machine learning algorithms to improve AI system performance.",
+    "job_skill_set": [
+      "Research",
+      "Algorithm Development",
+      "Python",
+      "Mathematics",
+      "Neural Networks"
+    ],
+    "unified_document": "Job Title: AI/ML Engineer. Overview: Engages in research to innovate and optimize machine learning algorithms. Skills Required: Research skills, mathematics, Python, neural networks. Learning Path: Pursue advanced studies in AI, focus on algorithm design, and participate in research projects."
+  },
+  {
+    "job_id": "2307299280",
+    "category": "AI/ML-ENGINEER",
+    "job_title": "AI/ML Engineer",
+    "job_description": "The role involves collaborating with cross-functional teams to develop AI-powered products and solutions.",
+    "job_skill_set": [
+      "Team Collaboration",
+      "Python",
+      "API Development",
+      "Data Engineering",
+      "Machine Learning"
+    ],
+    "unified_document": "Job Title: AI/ML Engineer. Overview: Works with multidisciplinary teams to create AI-enabled applications. Skills Required: Collaboration, Python, API development, data engineering. Learning Path: Build teamwork skills, learn API integration, and develop machine learning models."
+  },
+  {
+    "job_id": "9225339395",
+    "category": "AI/ML-ENGINEER",
+    "job_title": "AI/ML Engineer",
+    "job_description": "Responsible for maintaining and updating machine learning models to ensure optimal performance over time.",
+    "job_skill_set": [
+      "Model Monitoring",
+      "Python",
+      "Data Pipelines",
+      "Performance Tuning",
+      "ML Ops"
+    ],
+    "unified_document": "Job Title: AI/ML Engineer. Overview: Ensures ongoing performance and reliability of deployed models through monitoring and updates. Skills Required: ML Ops, Python, data pipelines, performance tuning. Learning Path: Study model deployment, monitoring techniques, and continuous integration."
+  },
+  {
+    "job_id": "7601366792",
+    "category": "AI/ML-ENGINEER",
+    "job_title": "AI/ML Engineer",
+    "job_description": "This role involves designing data pipelines and infrastructure to support machine learning workflows.",
+    "job_skill_set": [
+      "Data Engineering",
+      "ETL Processes",
+      "Cloud Platforms",
+      "Python",
+      "Big Data"
+    ],
+    "unified_document": "Job Title: AI/ML Engineer. Overview: Builds and manages data infrastructure to facilitate machine learning projects. Skills Required: Data engineering, ETL, cloud services, big data tools. Learning Path: Learn data pipeline development, cloud computing, and big data technologies."
+  },
+  {
+    "job_id": "5251891573",
+    "category": "AI/ML-ENGINEER",
+    "job_title": "AI/ML Engineer",
+    "job_description": "Involves developing natural language processing (NLP) models for language understanding and generation tasks.",
+    "job_skill_set": [
+      "NLP",
+      "Python",
+      "Transformers",
+      "Text Analysis",
+      "Deep Learning"
+    ],
+    "unified_document": "Job Title: AI/ML Engineer. Overview: Focuses on creating NLP models for language understanding, translation, and generation. Skills Required: NLP, transformers, deep learning, text analysis. Learning Path: Study NLP techniques, explore transformer architectures, and work on language datasets."
+  },
+  {
+    "job_id": "3099899177",
+    "category": "AI/ML-ENGINEER",
+    "job_title": "AI/ML Engineer",
+    "job_description": "The position involves applying computer vision techniques to develop image and video analysis systems.",
+    "job_skill_set": [
+      "Computer Vision",
+      "OpenCV",
+      "Deep Learning",
+      "Image Processing",
+      "Python"
+    ],
+    "unified_document": "Job Title: AI/ML Engineer. Overview: Develops systems for image and video analysis using computer vision techniques. Skills Required: Computer vision, OpenCV, deep learning, image processing. Learning Path: Learn image analysis algorithms, practice with OpenCV, and build vision models."
+  },
+  {
+    "job_id": "6973456246",
+    "category": "AI/ML-ENGINEER",
+    "job_title": "AI/ML Engineer",
+    "job_description": "Responsible for evaluating and benchmarking machine learning models to select the best performing solutions.",
+    "job_skill_set": [
+      "Model Evaluation",
+      "Python",
+      "Cross-Validation",
+      "Metrics",
+      "Data Analysis"
+    ],
+    "unified_document": "Job Title: AI/ML Engineer. Overview: Assesses model performance through evaluation and benchmarking to inform deployment decisions. Skills Required: Model evaluation, metrics, cross-validation, data analysis. Learning Path: Study evaluation techniques, learn to interpret metrics, and practice with datasets."
+  },
+  {
+    "job_id": "8926710759",
+    "category": "AI/ML-ENGINEER",
+    "job_title": "AI/ML Engineer",
+    "job_description": "This role involves deploying machine learning models into production environments and ensuring their scalability.",
+    "job_skill_set": [
+      "Model Deployment",
+      "Docker",
+      "Kubernetes",
+      "Cloud Services",
+      "Python"
+    ],
+    "unified_document": "Job Title: AI/ML Engineer. Overview: Focuses on deploying models at scale using containerization and orchestration tools. Skills Required: Docker, Kubernetes, cloud platforms, deployment pipelines. Learning Path: Learn containerization, cloud deployment, and CI/CD practices."
+  },
+  {
+    "job_id": "1207887385",
+    "category": "AI/ML-ENGINEER",
+    "job_title": "AI/ML Engineer",
+    "job_description": "Engages in research and development to advance the state-of-the-art in artificial intelligence and machine learning.",
+    "job_skill_set": [
+      "Research",
+      "Mathematics",
+      "Python",
+      "AI Algorithms",
+      "Academic Publishing"
+    ],
+    "unified_document": "Job Title: AI/ML Engineer. Overview: Conducts R&D to push the boundaries of AI capabilities and publish findings. Skills Required: Research skills, mathematics, AI algorithms, academic writing. Learning Path: Pursue advanced degrees, participate in conferences, and contribute to research projects."
+  },
+  {
+    "job_id": "9253946135",
+    "category": "AI/ML-ENGINEER",
+    "job_title": "AI/ML Engineer",
+    "job_description": "The role involves working with data scientists and software engineers to integrate machine learning models into applications.",
+    "job_skill_set": [
+      "Software Integration",
+      "APIs",
+      "Python",
+      "Data Pipelines",
+      "Collaboration"
+    ],
+    "unified_document": "Job Title: AI/ML Engineer. Overview: Collaborates with teams to embed machine learning models into software products. Skills Required: API development, Python, data pipelines, teamwork. Learning Path: Develop coding skills, learn API design, and understand deployment workflows."
+  },
+  {
+    "job_id": "9070686486",
+    "category": "AI/ML-ENGINEER",
+    "job_title": "AI/ML Engineer",
+    "job_description": "Responsible for optimizing machine learning models for efficiency and accuracy in production systems.",
+    "job_skill_set": [
+      "Model Optimization",
+      "Hyperparameter Tuning",
+      "Python",
+      "Performance Tuning",
+      "ML Frameworks"
+    ],
+    "unified_document": "Job Title: AI/ML Engineer. Overview: Enhances model performance through optimization and tuning techniques for deployment. Skills Required: Hyperparameter tuning, performance tuning, ML frameworks, Python. Learning Path: Study optimization algorithms, practice tuning models, and analyze performance metrics."
+  },
+  {
+    "job_id": "8708480019",
+    "category": "AI/ML-ENGINEER",
+    "job_title": "AI/ML Engineer",
+    "job_description": "This position involves developing reinforcement learning algorithms for autonomous systems and decision-making tasks.",
+    "job_skill_set": [
+      "Reinforcement Learning",
+      "Python",
+      "Simulation",
+      "Decision Making",
+      "Deep Learning"
+    ],
+    "unified_document": "Job Title: AI/ML Engineer. Overview: Designs reinforcement learning models for autonomous agents and decision systems. Skills Required: Reinforcement learning, simulation, deep learning, Python. Learning Path: Study RL algorithms, experiment with simulations, and implement decision-making models."
+  },
+  {
+    "job_id": "9317770621",
+    "category": "AI/ML-ENGINEER",
+    "job_title": "AI/ML Engineer",
+    "job_description": "Involves creating and fine-tuning generative models such as GANs and VAEs for creative applications.",
+    "job_skill_set": [
+      "Generative Models",
+      "GANs",
+      "VAEs",
+      "Deep Learning",
+      "Python"
+    ],
+    "unified_document": "Job Title: AI/ML Engineer. Overview: Develops generative models for creative and synthetic data generation. Skills Required: GANs, VAEs, deep learning, Python. Learning Path: Learn generative modeling techniques, experiment with architectures, and work on creative projects."
+  },
+  {
+    "job_id": "6808487617",
+    "category": "AI/ML-ENGINEER",
+    "job_title": "AI/ML Engineer",
+    "job_description": "Responsible for ensuring ethical AI development and addressing bias and fairness in machine learning models.",
+    "job_skill_set": [
+      "Ethics",
+      "Bias Detection",
+      "Fairness",
+      "Data Privacy",
+      "Regulatory Compliance"
+    ],
+    "unified_document": "Job Title: AI/ML Engineer. Overview: Focuses on developing fair, unbiased, and ethical AI systems. Skills Required: Ethics, bias detection, data privacy, compliance. Learning Path: Study AI ethics, learn bias mitigation techniques, and stay updated on regulations."
+  },
+  {
+    "job_id": "1538075519",
+    "category": "AI/ML-ENGINEER",
+    "job_title": "AI/ML Engineer",
+    "job_description": "Engages in continuous learning to stay current with emerging AI technologies and methodologies.",
+    "job_skill_set": [
+      "Lifelong Learning",
+      "AI Trends",
+      "Research",
+      "Workshops",
+      "Conferences"
+    ],
+    "unified_document": "Job Title: AI/ML Engineer. Overview: Maintains expertise by staying informed about the latest AI advancements. Skills Required: Continuous learning, research, attending workshops and conferences. Learning Path: Follow AI publications, participate in training, and network with professionals."
+  },
+  {
+    "job_id": "1797207698",
+    "category": "AI/ML-ENGINEER",
+    "job_title": "AI/ML Engineer",
+    "job_description": "The role involves developing and deploying AI solutions for specific industry applications such as healthcare, finance, or automotive.",
+    "job_skill_set": [
+      "Industry Knowledge",
+      "Domain-Specific Data",
+      "AI Applications",
+      "Regulatory Knowledge",
+      "Python"
+    ],
+    "unified_document": "Job Title: AI/ML Engineer. Overview: Builds AI solutions tailored to industry-specific needs, ensuring compliance and effectiveness. Skills Required: Domain expertise, data handling, AI application development. Learning Path: Gain industry knowledge, work on domain-specific datasets, and understand relevant regulations."
+  },
+  {
+    "job_id": "2566904002",
+    "category": "AI/ML-ENGINEER",
+    "job_title": "AI/ML Engineer",
+    "job_description": "Responsible for documenting AI models, processes, and results to facilitate transparency and reproducibility.",
+    "job_skill_set": [
+      "Technical Documentation",
+      "Python",
+      "Version Control",
+      "Reporting",
+      "Data Management"
+    ],
+    "unified_document": "Job Title: AI/ML Engineer. Overview: Creates comprehensive documentation for AI models and workflows to ensure transparency. Skills Required: Documentation, version control, reporting, data management. Learning Path: Practice technical writing, learn version control systems, and document projects thoroughly."
+  },
+  {
+    "job_id": "1340724508",
+    "category": "AI/ML-ENGINEER",
+    "job_title": "AI/ML Engineer",
+    "job_description": "Engages in cross-disciplinary collaboration to integrate AI with other emerging technologies like IoT and edge computing.",
+    "job_skill_set": [
+      "IoT",
+      "Edge Computing",
+      "AI Integration",
+      "Python",
+      "Systems Architecture"
+    ],
+    "unified_document": "Job Title: AI/ML Engineer. Overview: Works on integrating AI solutions with IoT devices and edge systems for real-time processing. Skills Required: IoT, edge computing, systems architecture, Python. Learning Path: Study IoT protocols, learn edge deployment, and develop integrated AI systems."
+  },
+  {
+    "job_id": "2652954390",
+    "category": "DOCTOR",
+    "job_title": "Doctor",
+    "job_description": "A doctor is a healthcare professional responsible for diagnosing, treating, and preventing illnesses and injuries in patients. They work in various medical settings to promote health and well-being.",
+    "job_skill_set": [
+      "medical knowledge",
+      "diagnostic skills",
+      "patient communication",
+      "empathy",
+      "clinical reasoning"
+    ],
+    "unified_document": "Job Title: Doctor. Overview: A doctor diagnoses and treats illnesses, providing medical care to patients across diverse settings. Skills Required: Medical expertise, diagnostic ability, effective communication, empathy, clinical judgment. Learning Path: Medical degree, residency training, continuous education."
+  },
+  {
+    "job_id": "4398285307",
+    "category": "DOCTOR",
+    "job_title": "Doctor",
+    "job_description": "Doctors assess patient health, develop treatment plans, and perform medical procedures to improve patient outcomes. They often specialize in areas such as pediatrics, surgery, or internal medicine.",
+    "job_skill_set": [
+      "clinical assessment",
+      "medical procedures",
+      "specialization knowledge",
+      "patient management",
+      "problem-solving"
+    ],
+    "unified_document": "Job Title: Doctor. Overview: Responsible for evaluating patient health, creating treatment strategies, and performing necessary procedures. Skills Required: Clinical assessment, procedural skills, specialization expertise, patient management, analytical thinking. Learning Path: Medical school, specialized residency, ongoing professional development."
+  },
+  {
+    "job_id": "6357143970",
+    "category": "DOCTOR",
+    "job_title": "Doctor",
+    "job_description": "Medical doctors provide comprehensive healthcare services, including diagnosis, treatment, and health education, aiming to improve patient health outcomes.",
+    "job_skill_set": [
+      "diagnostic skills",
+      "treatment planning",
+      "patient education",
+      "medical ethics",
+      "teamwork"
+    ],
+    "unified_document": "Job Title: Doctor. Overview: Provides diagnosis, treatment, and health education to patients to promote wellness. Skills Required: Diagnostic proficiency, treatment planning, patient communication, ethical practice, collaboration. Learning Path: Medical training, clinical practice, continuous learning."
+  },
+  {
+    "job_id": "9755616210",
+    "category": "DOCTOR",
+    "job_title": "Doctor",
+    "job_description": "Doctors are trained medical professionals who evaluate symptoms, order tests, and prescribe medications to treat various health conditions.",
+    "job_skill_set": [
+      "clinical evaluation",
+      "prescription writing",
+      "medical testing",
+      "patient monitoring",
+      "problem-solving"
+    ],
+    "unified_document": "Job Title: Doctor. Overview: Evaluates symptoms, orders diagnostic tests, and prescribes treatments to manage health issues. Skills Required: Clinical evaluation, medication management, diagnostic testing, patient monitoring, analytical skills. Learning Path: Medical education, clinical internships, specialization training."
+  },
+  {
+    "job_id": "5518775816",
+    "category": "DOCTOR",
+    "job_title": "Doctor",
+    "job_description": "A doctor conducts physical examinations, interprets medical data, and develops treatment plans tailored to individual patient needs.",
+    "job_skill_set": [
+      "physical examination",
+      "medical data interpretation",
+      "treatment development",
+      "patient rapport",
+      "critical thinking"
+    ],
+    "unified_document": "Job Title: Doctor. Overview: Performs physical exams, interprets medical data, and formulates personalized treatment plans. Skills Required: Physical assessment, data analysis, treatment design, communication, critical thinking. Learning Path: Medical school, clinical rotations, specialized training."
+  },
+  {
+    "job_id": "1874415760",
+    "category": "DOCTOR",
+    "job_title": "Doctor",
+    "job_description": "Medical practitioners diagnose illnesses, recommend therapies, and monitor patient progress to ensure effective recovery.",
+    "job_skill_set": [
+      "diagnostic skills",
+      "therapy recommendation",
+      "patient monitoring",
+      "medical documentation",
+      "collaborative care"
+    ],
+    "unified_document": "Job Title: Doctor. Overview: Diagnoses health issues, recommends appropriate therapies, and monitors recovery progress. Skills Required: Diagnostic proficiency, therapy planning, patient follow-up, documentation, teamwork. Learning Path: Medical training, clinical practice, ongoing education."
+  },
+  {
+    "job_id": "7014741051",
+    "category": "DOCTOR",
+    "job_title": "Doctor",
+    "job_description": "Doctors work closely with patients to understand their health concerns, perform examinations, and provide treatment options to improve health outcomes.",
+    "job_skill_set": [
+      "patient communication",
+      "clinical examination",
+      "treatment counseling",
+      "medical ethics",
+      "problem-solving"
+    ],
+    "unified_document": "Job Title: Doctor. Overview: Engages with patients to assess health concerns, perform examinations, and suggest treatment options. Skills Required: Communication, clinical skills, counseling, ethical practice, problem-solving. Learning Path: Medical education, patient interaction experience, continuous learning."
+  },
+  {
+    "job_id": "6490857040",
+    "category": "DOCTOR",
+    "job_title": "Doctor",
+    "job_description": "Physicians diagnose diseases, develop treatment plans, and perform medical procedures to restore health and prevent future illnesses.",
+    "job_skill_set": [
+      "diagnosis",
+      "treatment planning",
+      "medical procedures",
+      "preventive care",
+      "patient education"
+    ],
+    "unified_document": "Job Title: Doctor. Overview: Diagnoses health conditions, devises treatment strategies, and performs procedures to restore health. Skills Required: Diagnostic skills, procedural expertise, preventive medicine, patient education, clinical judgment. Learning Path: Medical school, residency, specialization, lifelong learning."
+  },
+  {
+    "job_id": "9796961106",
+    "category": "DOCTOR",
+    "job_title": "Doctor",
+    "job_description": "A medical doctor provides healthcare services, including diagnosing illnesses, prescribing medications, and managing chronic conditions.",
+    "job_skill_set": [
+      "medical diagnosis",
+      "prescription management",
+      "chronic disease management",
+      "patient counseling",
+      "medical ethics"
+    ],
+    "unified_document": "Job Title: Doctor. Overview: Provides comprehensive healthcare, diagnosing illnesses, prescribing treatments, and managing ongoing health issues. Skills Required: Diagnostic ability, medication management, chronic care, communication, ethical practice. Learning Path: Medical training, clinical experience, continuous professional development."
+  },
+  {
+    "job_id": "5720384546",
+    "category": "DOCTOR",
+    "job_title": "Doctor",
+    "job_description": "Doctors assess patient symptoms, order diagnostic tests, and implement treatment plans to improve health outcomes.",
+    "job_skill_set": [
+      "symptom assessment",
+      "diagnostic testing",
+      "treatment implementation",
+      "medical record keeping",
+      "team collaboration"
+    ],
+    "unified_document": "Job Title: Doctor. Overview: Assesses symptoms, orders tests, and executes treatment plans to enhance patient health. Skills Required: Symptom analysis, diagnostic testing, treatment execution, record management, teamwork. Learning Path: Medical education, clinical rotations, specialization."
+  },
+  {
+    "job_id": "8106567545",
+    "category": "DOCTOR",
+    "job_title": "Doctor",
+    "job_description": "Medical professionals specializing in diagnosing and treating a wide range of health conditions, often working in hospitals or clinics.",
+    "job_skill_set": [
+      "specialized medical knowledge",
+      "clinical skills",
+      "patient care",
+      "medical procedures",
+      "teamwork"
+    ],
+    "unified_document": "Job Title: Doctor. Overview: Specializes in diagnosing and managing various health conditions within clinical settings. Skills Required: Specialized knowledge, clinical skills, patient care, procedural expertise, collaboration. Learning Path: Medical degree, residency, subspecialty training."
+  },
+  {
+    "job_id": "5727408767",
+    "category": "DOCTOR",
+    "job_title": "Doctor",
+    "job_description": "Physicians play a critical role in healthcare by diagnosing diseases, recommending treatments, and guiding patients through recovery processes.",
+    "job_skill_set": [
+      "disease diagnosis",
+      "treatment guidance",
+      "patient education",
+      "medical ethics",
+      "collaborative care"
+    ],
+    "unified_document": "Job Title: Doctor. Overview: Diagnoses diseases, recommends appropriate treatments, and supports patient recovery. Skills Required: Diagnostic skills, treatment planning, patient communication, ethical practice, teamwork. Learning Path: Medical education, clinical practice, ongoing specialization."
+  },
+  {
+    "job_id": "8512043508",
+    "category": "DOCTOR",
+    "job_title": "Doctor",
+    "job_description": "A healthcare provider trained to evaluate symptoms, perform examinations, and deliver medical interventions to improve health.",
+    "job_skill_set": [
+      "clinical evaluation",
+      "medical intervention",
+      "patient management",
+      "diagnostic testing",
+      "ethical practice"
+    ],
+    "unified_document": "Job Title: Doctor. Overview: Evaluates patient symptoms, performs examinations, and administers medical interventions to promote health. Skills Required: Clinical assessment, intervention skills, patient management, diagnostic testing, ethics. Learning Path: Medical school, clinical training, specialization."
+  },
+  {
+    "job_id": "8813240413",
+    "category": "DOCTOR",
+    "job_title": "Doctor",
+    "job_description": "Medical doctors are responsible for diagnosing health issues, prescribing treatments, and monitoring patient progress over time.",
+    "job_skill_set": [
+      "diagnosis",
+      "treatment monitoring",
+      "medication management",
+      "patient follow-up",
+      "medical documentation"
+    ],
+    "unified_document": "Job Title: Doctor. Overview: Diagnoses health problems, prescribes treatments, and tracks patient progress to ensure recovery. Skills Required: Diagnostic skills, medication management, follow-up, documentation, communication. Learning Path: Medical education, clinical practice, continuous learning."
+  },
+  {
+    "job_id": "8589959707",
+    "category": "DOCTOR",
+    "job_title": "Doctor",
+    "job_description": "Doctors provide essential healthcare services, including diagnosing illnesses, developing treatment plans, and educating patients about health maintenance.",
+    "job_skill_set": [
+      "patient education",
+      "diagnostic skills",
+      "treatment development",
+      "medical ethics",
+      "collaborative care"
+    ],
+    "unified_document": "Job Title: Doctor. Overview: Offers healthcare services by diagnosing conditions, creating treatment plans, and educating patients. Skills Required: Communication, diagnostic proficiency, treatment planning, ethics, teamwork. Learning Path: Medical training, clinical experience, ongoing education."
+  },
+  {
+    "job_id": "4790092655",
+    "category": "DOCTOR",
+    "job_title": "Doctor",
+    "job_description": "A physician evaluates patient symptoms, orders necessary tests, and prescribes appropriate treatments to manage health conditions.",
+    "job_skill_set": [
+      "symptom evaluation",
+      "diagnostic testing",
+      "treatment prescription",
+      "patient counseling",
+      "medical ethics"
+    ],
+    "unified_document": "Job Title: Doctor. Overview: Evaluates symptoms, orders tests, and prescribes treatments to address health issues. Skills Required: Symptom assessment, diagnostic testing, medication management, counseling, ethics. Learning Path: Medical school, residency, specialization."
+  },
+  {
+    "job_id": "9744268717",
+    "category": "DOCTOR",
+    "job_title": "Doctor",
+    "job_description": "Medical practitioners are trained to diagnose diseases, develop treatment strategies, and provide ongoing patient care to ensure recovery.",
+    "job_skill_set": [
+      "diagnostic skills",
+      "treatment planning",
+      "patient management",
+      "medical procedures",
+      "continuing education"
+    ],
+    "unified_document": "Job Title: Doctor. Overview: Diagnoses diseases, devises treatment strategies, and manages ongoing care to promote health. Skills Required: Diagnostic proficiency, treatment design, patient management, procedural skills, lifelong learning. Learning Path: Medical education, clinical training, specialization."
+  },
+  {
+    "job_id": "2684750396",
+    "category": "DOCTOR",
+    "job_title": "Doctor",
+    "job_description": "Physicians are essential in healthcare for their role in diagnosing illnesses, recommending treatments, and guiding patients through recovery processes.",
+    "job_skill_set": [
+      "diagnosis",
+      "treatment recommendation",
+      "patient guidance",
+      "medical ethics",
+      "team collaboration"
+    ],
+    "unified_document": "Job Title: Doctor. Overview: Diagnoses health issues, recommends treatments, and supports patient recovery. Skills Required: Diagnostic skills, treatment planning, patient communication, ethics, teamwork. Learning Path: Medical training, clinical practice, ongoing specialization."
+  },
+  {
+    "job_id": "8579661855",
+    "category": "DOCTOR",
+    "job_title": "Doctor",
+    "job_description": "A healthcare professional trained to evaluate symptoms, perform examinations, and administer treatments to improve patient health.",
+    "job_skill_set": [
+      "clinical assessment",
+      "medical intervention",
+      "diagnostic testing",
+      "patient management",
+      "ethical practice"
+    ],
+    "unified_document": "Job Title: Doctor. Overview: Performs evaluations, administers treatments, and manages patient health to ensure recovery. Skills Required: Clinical skills, intervention techniques, diagnostic testing, patient management, ethics. Learning Path: Medical school, clinical rotations, specialization."
+  },
+  {
+    "job_id": "7807910551",
+    "category": "DOCTOR",
+    "job_title": "Doctor",
+    "job_description": "A doctor is a healthcare professional responsible for diagnosing, treating, and preventing illnesses and injuries in patients. They provide medical care across various specialties and settings.",
+    "job_skill_set": [
+      "Medical Knowledge",
+      "Patient Care",
+      "Communication Skills",
+      "Diagnostic Skills",
+      "Empathy"
+    ],
+    "unified_document": "Job Title: Doctor. Job Description: A doctor is a healthcare professional responsible for diagnosing, treating, and preventing illnesses and injuries in patients. They provide medical care across various specialties and settings. Required Skills: ['Medical Knowledge', 'Patient Care', 'Communication Skills', 'Diagnostic Skills', 'Empathy']."
+  },
+  {
+    "job_id": "5273423766",
+    "category": "DOCTOR",
+    "job_title": "Doctor",
+    "job_description": "Doctors assess patient health through examinations and tests, develop treatment plans, and monitor recovery. They often specialize in fields such as pediatrics, cardiology, or surgery.",
+    "job_skill_set": [
+      "Clinical Assessment",
+      "Treatment Planning",
+      "Specialized Medical Knowledge",
+      "Patient Monitoring",
+      "Problem Solving"
+    ],
+    "unified_document": "Job Title: Doctor. Job Description: Doctors assess patient health through examinations and tests, develop treatment plans, and monitor recovery. They often specialize in fields such as pediatrics, cardiology, or surgery. Required Skills: ['Clinical Assessment', 'Treatment Planning', 'Specialized Medical Knowledge', 'Patient Monitoring', 'Problem Solving']."
+  },
+  {
+    "job_id": "1450768302",
+    "category": "DOCTOR",
+    "job_title": "Doctor",
+    "job_description": "Medical doctors provide healthcare services by diagnosing illnesses, prescribing medications, and advising patients on health management. They work in hospitals, clinics, or private practices.",
+    "job_skill_set": [
+      "Diagnosis",
+      "Pharmacology",
+      "Patient Communication",
+      "Medical Ethics",
+      "Record Keeping"
+    ],
+    "unified_document": "Job Title: Doctor. Job Description: Medical doctors provide healthcare services by diagnosing illnesses, prescribing medications, and advising patients on health management. They work in hospitals, clinics, or private practices. Required Skills: ['Diagnosis', 'Pharmacology', 'Patient Communication', 'Medical Ethics', 'Record Keeping']."
+  },
+  {
+    "job_id": "3800170022",
+    "category": "DOCTOR",
+    "job_title": "Doctor",
+    "job_description": "Doctors are trained to evaluate symptoms, perform medical procedures, and develop treatment strategies to improve patient health outcomes across various medical fields.",
+    "job_skill_set": [
+      "Medical Evaluation",
+      "Procedural Skills",
+      "Treatment Development",
+      "Critical Thinking",
+      "Team Collaboration"
+    ],
+    "unified_document": "Job Title: Doctor. Job Description: Doctors are trained to evaluate symptoms, perform medical procedures, and develop treatment strategies to improve patient health outcomes across various medical fields. Required Skills: ['Medical Evaluation', 'Procedural Skills', 'Treatment Development', 'Critical Thinking', 'Team Collaboration']."
+  },
+  {
+    "job_id": "6688809487",
+    "category": "DOCTOR",
+    "job_title": "Doctor",
+    "job_description": "A physician provides comprehensive medical care, including diagnosis, treatment, and health education, often working closely with patients to manage chronic conditions.",
+    "job_skill_set": [
+      "Patient Management",
+      "Health Education",
+      "Chronic Disease Management",
+      "Interpersonal Skills",
+      "Medical Documentation"
+    ],
+    "unified_document": "Job Title: Doctor. Job Description: A physician provides comprehensive medical care, including diagnosis, treatment, and health education, often working closely with patients to manage chronic conditions. Required Skills: ['Patient Management', 'Health Education', 'Chronic Disease Management', 'Interpersonal Skills', 'Medical Documentation']."
+  },
+  {
+    "job_id": "2367272020",
+    "category": "DOCTOR",
+    "job_title": "Doctor",
+    "job_description": "Doctors utilize their medical expertise to diagnose illnesses, recommend treatments, and support patient recovery in various healthcare environments.",
+    "job_skill_set": [
+      "Diagnostic Expertise",
+      "Treatment Recommendations",
+      "Patient Support",
+      "Medical Research",
+      "Teamwork"
+    ],
+    "unified_document": "Job Title: Doctor. Job Description: Doctors utilize their medical expertise to diagnose illnesses, recommend treatments, and support patient recovery in various healthcare environments. Required Skills: ['Diagnostic Expertise', 'Treatment Recommendations', 'Patient Support', 'Medical Research', 'Teamwork']."
+  },
+  {
+    "job_id": "2668039876",
+    "category": "DOCTOR",
+    "job_title": "Doctor",
+    "job_description": "Medical practitioners diagnose health issues, develop treatment plans, and provide ongoing care to promote patient well-being and recovery.",
+    "job_skill_set": [
+      "Health Diagnosis",
+      "Care Planning",
+      "Follow-up Care",
+      "Medical Ethics",
+      "Communication"
+    ],
+    "unified_document": "Job Title: Doctor. Job Description: Medical practitioners diagnose health issues, develop treatment plans, and provide ongoing care to promote patient well-being and recovery. Required Skills: ['Health Diagnosis', 'Care Planning', 'Follow-up Care', 'Medical Ethics', 'Communication']."
+  },
+  {
+    "job_id": "3934419199",
+    "category": "DOCTOR",
+    "job_title": "Doctor",
+    "job_description": "Physicians are responsible for examining patients, ordering diagnostic tests, and prescribing treatments to address various health conditions.",
+    "job_skill_set": [
+      "Examination Skills",
+      "Diagnostic Testing",
+      "Prescribing Medications",
+      "Medical Decision Making",
+      "Patient Education"
+    ],
+    "unified_document": "Job Title: Doctor. Job Description: Physicians are responsible for examining patients, ordering diagnostic tests, and prescribing treatments to address various health conditions. Required Skills: ['Examination Skills', 'Diagnostic Testing', 'Prescribing Medications', 'Medical Decision Making', 'Patient Education']."
+  },
+  {
+    "job_id": "1940603693",
+    "category": "DOCTOR",
+    "job_title": "Doctor",
+    "job_description": "Healthcare doctors provide medical assessments, diagnose illnesses, and develop treatment plans to improve patient health outcomes.",
+    "job_skill_set": [
+      "Medical Assessment",
+      "Diagnosis",
+      "Treatment Planning",
+      "Patient Care",
+      "Medical Ethics"
+    ],
+    "unified_document": "Job Title: Doctor. Job Description: Healthcare doctors provide medical assessments, diagnose illnesses, and develop treatment plans to improve patient health outcomes. Required Skills: ['Medical Assessment', 'Diagnosis', 'Treatment Planning', 'Patient Care', 'Medical Ethics']."
+  },
+  {
+    "job_id": "9577844172",
+    "category": "DOCTOR",
+    "job_title": "Doctor",
+    "job_description": "A medical doctor offers clinical services including diagnosis, treatment, and health advice, often collaborating with other healthcare professionals.",
+    "job_skill_set": [
+      "Clinical Services",
+      "Collaboration",
+      "Health Advice",
+      "Medical Knowledge",
+      "Record Management"
+    ],
+    "unified_document": "Job Title: Doctor. Job Description: A medical doctor offers clinical services including diagnosis, treatment, and health advice, often collaborating with other healthcare professionals. Required Skills: ['Clinical Services', 'Collaboration', 'Health Advice', 'Medical Knowledge', 'Record Management']."
+  },
+  {
+    "job_id": "1275744481",
+    "category": "DOCTOR",
+    "job_title": "Doctor",
+    "job_description": "Physicians diagnose health issues, prescribe appropriate treatments, and monitor patient progress to ensure effective recovery.",
+    "job_skill_set": [
+      "Diagnosis",
+      "Treatment Monitoring",
+      "Patient Follow-up",
+      "Medical Prescriptions",
+      "Communication"
+    ],
+    "unified_document": "Job Title: Doctor. Job Description: Physicians diagnose health issues, prescribe appropriate treatments, and monitor patient progress to ensure effective recovery. Required Skills: ['Diagnosis', 'Treatment Monitoring', 'Patient Follow-up', 'Medical Prescriptions', 'Communication']."
+  },
+  {
+    "job_id": "7783714479",
+    "category": "DOCTOR",
+    "job_title": "Doctor",
+    "job_description": "Medical practitioners evaluate symptoms, perform procedures, and develop treatment strategies to improve patient health outcomes.",
+    "job_skill_set": [
+      "Symptom Evaluation",
+      "Medical Procedures",
+      "Strategy Development",
+      "Critical Thinking",
+      "Patient Care"
+    ],
+    "unified_document": "Job Title: Doctor. Job Description: Medical practitioners evaluate symptoms, perform procedures, and develop treatment strategies to improve patient health outcomes. Required Skills: ['Symptom Evaluation', 'Medical Procedures', 'Strategy Development', 'Critical Thinking', 'Patient Care']."
+  },
+  {
+    "job_id": "5373637378",
+    "category": "DOCTOR",
+    "job_title": "Doctor",
+    "job_description": "A healthcare physician provides diagnosis, treatment, and health management services, often working in multidisciplinary teams.",
+    "job_skill_set": [
+      "Diagnosis",
+      "Treatment",
+      "Health Management",
+      "Teamwork",
+      "Medical Ethics"
+    ],
+    "unified_document": "Job Title: Doctor. Job Description: A healthcare physician provides diagnosis, treatment, and health management services, often working in multidisciplinary teams. Required Skills: ['Diagnosis', 'Treatment', 'Health Management', 'Teamwork', 'Medical Ethics']."
+  },
+  {
+    "job_id": "5969022267",
+    "category": "DOCTOR",
+    "job_title": "Doctor",
+    "job_description": "Physicians assess patient conditions, recommend treatments, and provide ongoing medical support to promote recovery and health maintenance.",
+    "job_skill_set": [
+      "Patient Assessment",
+      "Treatment Recommendations",
+      "Ongoing Support",
+      "Medical Knowledge",
+      "Communication"
+    ],
+    "unified_document": "Job Title: Doctor. Job Description: Physicians assess patient conditions, recommend treatments, and provide ongoing medical support to promote recovery and health maintenance. Required Skills: ['Patient Assessment', 'Treatment Recommendations', 'Ongoing Support', 'Medical Knowledge', 'Communication']."
+  },
+  {
+    "job_id": "2786889313",
+    "category": "DOCTOR",
+    "job_title": "Doctor",
+    "job_description": "Medical doctors diagnose health issues, develop treatment plans, and support patient recovery through continuous care and monitoring.",
+    "job_skill_set": [
+      "Health Diagnosis",
+      "Treatment Planning",
+      "Patient Monitoring",
+      "Continuity of Care",
+      "Medical Ethics"
+    ],
+    "unified_document": "Job Title: Doctor. Job Description: Medical doctors diagnose health issues, develop treatment plans, and support patient recovery through continuous care and monitoring. Required Skills: ['Health Diagnosis', 'Treatment Planning', 'Patient Monitoring', 'Continuity of Care', 'Medical Ethics']."
+  },
+  {
+    "job_id": "3389225115",
+    "category": "DOCTOR",
+    "job_title": "Doctor",
+    "job_description": "Clinicians provide medical evaluations, diagnose conditions, and implement treatment strategies to improve patient health outcomes.",
+    "job_skill_set": [
+      "Medical Evaluation",
+      "Condition Diagnosis",
+      "Treatment Implementation",
+      "Critical Thinking",
+      "Patient Care"
+    ],
+    "unified_document": "Job Title: Doctor. Job Description: Clinicians provide medical evaluations, diagnose conditions, and implement treatment strategies to improve patient health outcomes. Required Skills: ['Medical Evaluation', 'Condition Diagnosis', 'Treatment Implementation', 'Critical Thinking', 'Patient Care']."
+  },
+  {
+    "job_id": "7246567707",
+    "category": "DOCTOR",
+    "job_title": "Doctor",
+    "job_description": "A medical professional offers diagnosis, treatment, and health advice, often collaborating with a healthcare team to ensure comprehensive patient care.",
+    "job_skill_set": [
+      "Diagnosis",
+      "Treatment",
+      "Health Advice",
+      "Team Collaboration",
+      "Medical Ethics"
+    ],
+    "unified_document": "Job Title: Doctor. Job Description: A medical professional offers diagnosis, treatment, and health advice, often collaborating with a healthcare team to ensure comprehensive patient care. Required Skills: ['Diagnosis', 'Treatment', 'Health Advice', 'Team Collaboration', 'Medical Ethics']."
+  },
+  {
+    "job_id": "2643099118",
+    "category": "SOFTWARE-ENGINEER",
+    "job_title": "Software Engineer",
+    "job_description": "A Software Engineer designs, develops, and maintains software applications, ensuring functionality and performance meet user needs. They collaborate with cross-functional teams to deliver high-quality solutions.",
+    "job_skill_set": [
+      "programming",
+      "software development",
+      "problem-solving",
+      "collaboration",
+      "debugging"
+    ],
+    "unified_document": "Job Title: Software Engineer. Job Description: A Software Engineer designs, develops, and maintains software applications, ensuring functionality and performance meet user needs. They collaborate with cross-functional teams to deliver high-quality solutions. Required Skills: ['programming', 'software development', 'problem-solving', 'collaboration', 'debugging']."
+  },
+  {
+    "job_id": "1616384507",
+    "category": "SOFTWARE-ENGINEER",
+    "job_title": "Software Engineer",
+    "job_description": "Software Engineers are responsible for creating and implementing software solutions, often working on coding, testing, and debugging to ensure reliable performance.",
+    "job_skill_set": [
+      "coding",
+      "testing",
+      "debugging",
+      "software design",
+      "version control"
+    ],
+    "unified_document": "Job Title: Software Engineer. Job Description: Software Engineers are responsible for creating and implementing software solutions, often working on coding, testing, and debugging to ensure reliable performance. Required Skills: ['coding', 'testing', 'debugging', 'software design', 'version control']."
+  },
+  {
+    "job_id": "4288061835",
+    "category": "SOFTWARE-ENGINEER",
+    "job_title": "Software Engineer",
+    "job_description": "This role involves developing software applications, troubleshooting issues, and optimizing code for better efficiency and scalability.",
+    "job_skill_set": [
+      "software development",
+      "troubleshooting",
+      "optimization",
+      "coding",
+      "scalability"
+    ],
+    "unified_document": "Job Title: Software Engineer. Job Description: This role involves developing software applications, troubleshooting issues, and optimizing code for better efficiency and scalability. Required Skills: ['software development', 'troubleshooting', 'optimization', 'coding', 'scalability']."
+  },
+  {
+    "job_id": "8854258829",
+    "category": "SOFTWARE-ENGINEER",
+    "job_title": "Software Engineer",
+    "job_description": "A Software Engineer writes code, tests software components, and collaborates with teams to deliver functional and efficient software products.",
+    "job_skill_set": [
+      "coding",
+      "software testing",
+      "team collaboration",
+      "software design",
+      "problem-solving"
+    ],
+    "unified_document": "Job Title: Software Engineer. Job Description: A Software Engineer writes code, tests software components, and collaborates with teams to deliver functional and efficient software products. Required Skills: ['coding', 'software testing', 'team collaboration', 'software design', 'problem-solving']."
+  },
+  {
+    "job_id": "1738871734",
+    "category": "SOFTWARE-ENGINEER",
+    "job_title": "Software Engineer",
+    "job_description": "Responsible for developing, testing, and maintaining software applications, ensuring they meet quality standards and user requirements.",
+    "job_skill_set": [
+      "application development",
+      "testing",
+      "maintenance",
+      "quality assurance",
+      "user requirements"
+    ],
+    "unified_document": "Job Title: Software Engineer. Job Description: Responsible for developing, testing, and maintaining software applications, ensuring they meet quality standards and user requirements. Required Skills: ['application development', 'testing', 'maintenance', 'quality assurance', 'user requirements']."
+  },
+  {
+    "job_id": "3796399965",
+    "category": "SOFTWARE-ENGINEER",
+    "job_title": "Software Engineer",
+    "job_description": "This position involves designing software solutions, coding, and collaborating with teams to implement new features and improve existing systems.",
+    "job_skill_set": [
+      "software design",
+      "coding",
+      "team collaboration",
+      "feature development",
+      "system improvement"
+    ],
+    "unified_document": "Job Title: Software Engineer. Job Description: This position involves designing software solutions, coding, and collaborating with teams to implement new features and improve existing systems. Required Skills: ['software design', 'coding', 'team collaboration', 'feature development', 'system improvement']."
+  },
+  {
+    "job_id": "2118199370",
+    "category": "SOFTWARE-ENGINEER",
+    "job_title": "Software Engineer",
+    "job_description": "Develops and maintains software applications, ensuring code quality, performance, and adherence to project requirements.",
+    "job_skill_set": [
+      "application development",
+      "code quality",
+      "performance optimization",
+      "requirements analysis",
+      "maintenance"
+    ],
+    "unified_document": "Job Title: Software Engineer. Job Description: Develops and maintains software applications, ensuring code quality, performance, and adherence to project requirements. Required Skills: ['application development', 'code quality', 'performance optimization', 'requirements analysis', 'maintenance']."
+  },
+  {
+    "job_id": "8781211483",
+    "category": "SOFTWARE-ENGINEER",
+    "job_title": "Software Engineer",
+    "job_description": "In this role, the engineer develops software, performs testing, and collaborates with stakeholders to deliver reliable solutions.",
+    "job_skill_set": [
+      "software development",
+      "testing",
+      "stakeholder collaboration",
+      "reliability",
+      "problem-solving"
+    ],
+    "unified_document": "Job Title: Software Engineer. Job Description: In this role, the engineer develops software, performs testing, and collaborates with stakeholders to deliver reliable solutions. Required Skills: ['software development', 'testing', 'stakeholder collaboration', 'reliability', 'problem-solving']."
+  },
+  {
+    "job_id": "2546331761",
+    "category": "SOFTWARE-ENGINEER",
+    "job_title": "Software Engineer",
+    "job_description": "Designs, codes, and tests software components, working closely with product teams to meet project goals.",
+    "job_skill_set": [
+      "software design",
+      "coding",
+      "testing",
+      "product collaboration",
+      "project management"
+    ],
+    "unified_document": "Job Title: Software Engineer. Job Description: Designs, codes, and tests software components, working closely with product teams to meet project goals. Required Skills: ['software design', 'coding', 'testing', 'product collaboration', 'project management']."
+  },
+  {
+    "job_id": "3184385859",
+    "category": "SOFTWARE-ENGINEER",
+    "job_title": "Software Engineer",
+    "job_description": "Responsible for developing scalable software solutions, debugging issues, and improving system performance.",
+    "job_skill_set": [
+      "scalable development",
+      "debugging",
+      "performance tuning",
+      "software architecture",
+      "problem-solving"
+    ],
+    "unified_document": "Job Title: Software Engineer. Job Description: Responsible for developing scalable software solutions, debugging issues, and improving system performance. Required Skills: ['scalable development', 'debugging', 'performance tuning', 'software architecture', 'problem-solving']."
+  },
+  {
+    "job_id": "3880644388",
+    "category": "SOFTWARE-ENGINEER",
+    "job_title": "Software Engineer",
+    "job_description": "Works on designing, coding, and testing software applications, often participating in code reviews and agile development processes.",
+    "job_skill_set": [
+      "design",
+      "coding",
+      "testing",
+      "code reviews",
+      "agile methodologies"
+    ],
+    "unified_document": "Job Title: Software Engineer. Job Description: Works on designing, coding, and testing software applications, often participating in code reviews and agile development processes. Required Skills: ['design', 'coding', 'testing', 'code reviews', 'agile methodologies']."
+  },
+  {
+    "job_id": "7232933732",
+    "category": "SOFTWARE-ENGINEER",
+    "job_title": "Software Engineer",
+    "job_description": "Engages in developing software features, fixing bugs, and ensuring the stability and security of applications.",
+    "job_skill_set": [
+      "feature development",
+      "bug fixing",
+      "application security",
+      "stability",
+      "software maintenance"
+    ],
+    "unified_document": "Job Title: Software Engineer. Job Description: Engages in developing software features, fixing bugs, and ensuring the stability and security of applications. Required Skills: ['feature development', 'bug fixing', 'application security', 'stability', 'software maintenance']."
+  },
+  {
+    "job_id": "6477274799",
+    "category": "SOFTWARE-ENGINEER",
+    "job_title": "Software Engineer",
+    "job_description": "Develops and tests software modules, collaborates with teams to integrate components, and documents technical specifications.",
+    "job_skill_set": [
+      "module development",
+      "testing",
+      "team collaboration",
+      "technical documentation",
+      "integration"
+    ],
+    "unified_document": "Job Title: Software Engineer. Job Description: Develops and tests software modules, collaborates with teams to integrate components, and documents technical specifications. Required Skills: ['module development', 'testing', 'team collaboration', 'technical documentation', 'integration']."
+  },
+  {
+    "job_id": "2576138564",
+    "category": "SOFTWARE-ENGINEER",
+    "job_title": "Software Engineer",
+    "job_description": "Responsible for coding, testing, and deploying software solutions, ensuring they meet performance and security standards.",
+    "job_skill_set": [
+      "coding",
+      "testing",
+      "deployment",
+      "performance optimization",
+      "security"
+    ],
+    "unified_document": "Job Title: Software Engineer. Job Description: Responsible for coding, testing, and deploying software solutions, ensuring they meet performance and security standards. Required Skills: ['coding', 'testing', 'deployment', 'performance optimization', 'security']."
+  },
+  {
+    "job_id": "4075528490",
+    "category": "SOFTWARE-ENGINEER",
+    "job_title": "Software Engineer",
+    "job_description": "Works on developing new software features, troubleshooting issues, and maintaining existing applications for optimal performance.",
+    "job_skill_set": [
+      "feature development",
+      "troubleshooting",
+      "application maintenance",
+      "performance tuning",
+      "problem-solving"
+    ],
+    "unified_document": "Job Title: Software Engineer. Job Description: Works on developing new software features, troubleshooting issues, and maintaining existing applications for optimal performance. Required Skills: ['feature development', 'troubleshooting', 'application maintenance', 'performance tuning', 'problem-solving']."
+  },
+  {
+    "job_id": "8953720172",
+    "category": "SOFTWARE-ENGINEER",
+    "job_title": "Software Engineer",
+    "job_description": "Designs and implements software solutions, performs code reviews, and collaborates with teams to ensure project success.",
+    "job_skill_set": [
+      "software design",
+      "implementation",
+      "code reviews",
+      "team collaboration",
+      "project management"
+    ],
+    "unified_document": "Job Title: Software Engineer. Job Description: Designs and implements software solutions, performs code reviews, and collaborates with teams to ensure project success. Required Skills: ['software design', 'implementation', 'code reviews', 'team collaboration', 'project management']."
+  },
+  {
+    "job_id": "9419422713",
+    "category": "SOFTWARE-ENGINEER",
+    "job_title": "Software Engineer",
+    "job_description": "Develops, tests, and maintains software applications, focusing on quality, performance, and user satisfaction.",
+    "job_skill_set": [
+      "application development",
+      "testing",
+      "maintenance",
+      "quality assurance",
+      "user experience"
+    ],
+    "unified_document": "Job Title: Software Engineer. Job Description: Develops, tests, and maintains software applications, focusing on quality, performance, and user satisfaction. Required Skills: ['application development', 'testing', 'maintenance', 'quality assurance', 'user experience']."
+  },
+  {
+    "job_id": "3243186192",
+    "category": "SOFTWARE-DEVELOPER",
+    "job_title": "Software Developer",
+    "job_description": "A Software Developer designs, develops, and maintains software applications to meet user needs and business objectives. They collaborate with teams to create efficient and scalable code.",
+    "job_skill_set": [
+      "programming languages",
+      "software design",
+      "debugging",
+      "version control",
+      "problem-solving"
+    ],
+    "unified_document": "Job Title: Software Developer. Job Description: A Software Developer designs, develops, and maintains software applications to meet user needs and business objectives. They collaborate with teams to create efficient and scalable code. Required Skills: ['programming languages', 'software design', 'debugging', 'version control', 'problem-solving']."
+  },
+  {
+    "job_id": "1371716503",
+    "category": "SOFTWARE-DEVELOPER",
+    "job_title": "Software Developer",
+    "job_description": "Software Developers write and test code for computer applications, ensuring functionality and performance. They often work closely with stakeholders to implement new features and fix bugs.",
+    "job_skill_set": [
+      "coding",
+      "software testing",
+      "collaboration",
+      "problem-solving",
+      "software lifecycle"
+    ],
+    "unified_document": "Job Title: Software Developer. Job Description: Software Developers write and test code for computer applications, ensuring functionality and performance. They often work closely with stakeholders to implement new features and fix bugs. Required Skills: ['coding', 'software testing', 'collaboration', 'problem-solving', 'software lifecycle']."
+  },
+  {
+    "job_id": "1061689795",
+    "category": "SOFTWARE-DEVELOPER",
+    "job_title": "Software Developer",
+    "job_description": "This role involves developing software solutions by analyzing user requirements and designing appropriate programs. Developers also maintain and improve existing applications.",
+    "job_skill_set": [
+      "requirements analysis",
+      "software design",
+      "coding",
+      "maintenance",
+      "agile methodologies"
+    ],
+    "unified_document": "Job Title: Software Developer. Job Description: This role involves developing software solutions by analyzing user requirements and designing appropriate programs. Developers also maintain and improve existing applications. Required Skills: ['requirements analysis', 'software design', 'coding', 'maintenance', 'agile methodologies']."
+  },
+  {
+    "job_id": "6344115464",
+    "category": "SOFTWARE-DEVELOPER",
+    "job_title": "Software Developer",
+    "job_description": "Software Developers create, test, and deploy software applications, ensuring they meet quality standards and user expectations. They often work in teams following software development methodologies.",
+    "job_skill_set": [
+      "application development",
+      "testing",
+      "deployment",
+      "teamwork",
+      "software methodologies"
+    ],
+    "unified_document": "Job Title: Software Developer. Job Description: Software Developers create, test, and deploy software applications, ensuring they meet quality standards and user expectations. They often work in teams following software development methodologies. Required Skills: ['application development', 'testing', 'deployment', 'teamwork', 'software methodologies']."
+  },
+  {
+    "job_id": "8462238756",
+    "category": "SOFTWARE-DEVELOPER",
+    "job_title": "Software Developer",
+    "job_description": "The role involves designing and implementing software solutions, debugging issues, and optimizing performance to deliver reliable applications.",
+    "job_skill_set": [
+      "software design",
+      "debugging",
+      "performance optimization",
+      "problem-solving",
+      "coding standards"
+    ],
+    "unified_document": "Job Title: Software Developer. Job Description: The role involves designing and implementing software solutions, debugging issues, and optimizing performance to deliver reliable applications. Required Skills: ['software design', 'debugging', 'performance optimization', 'problem-solving', 'coding standards']."
+  },
+  {
+    "job_id": "9750753771",
+    "category": "SOFTWARE-DEVELOPER",
+    "job_title": "Software Developer",
+    "job_description": "A Software Developer develops applications by writing code, testing functionalities, and collaborating with cross-functional teams to deliver software products.",
+    "job_skill_set": [
+      "application coding",
+      "testing",
+      "team collaboration",
+      "software deployment",
+      "version control"
+    ],
+    "unified_document": "Job Title: Software Developer. Job Description: A Software Developer develops applications by writing code, testing functionalities, and collaborating with cross-functional teams to deliver software products. Required Skills: ['application coding', 'testing', 'team collaboration', 'software deployment', 'version control']."
+  },
+  {
+    "job_id": "3643599235",
+    "category": "SOFTWARE-DEVELOPER",
+    "job_title": "Software Developer",
+    "job_description": "This position involves creating software solutions, troubleshooting issues, and ensuring code quality through testing and reviews.",
+    "job_skill_set": [
+      "software creation",
+      "troubleshooting",
+      "code review",
+      "testing",
+      "quality assurance"
+    ],
+    "unified_document": "Job Title: Software Developer. Job Description: This position involves creating software solutions, troubleshooting issues, and ensuring code quality through testing and reviews. Required Skills: ['software creation', 'troubleshooting', 'code review', 'testing', 'quality assurance']."
+  },
+  {
+    "job_id": "6218680719",
+    "category": "SOFTWARE-DEVELOPER",
+    "job_title": "Software Developer",
+    "job_description": "Responsible for designing, coding, and maintaining software applications, ensuring they meet technical specifications and user needs.",
+    "job_skill_set": [
+      "software design",
+      "coding",
+      "maintenance",
+      "technical specifications",
+      "user requirements"
+    ],
+    "unified_document": "Job Title: Software Developer. Job Description: Responsible for designing, coding, and maintaining software applications, ensuring they meet technical specifications and user needs. Required Skills: ['software design', 'coding', 'maintenance', 'technical specifications', 'user requirements']."
+  },
+  {
+    "job_id": "5741676261",
+    "category": "SOFTWARE-DEVELOPER",
+    "job_title": "Software Developer",
+    "job_description": "Develops and implements software solutions, collaborates with teams to improve existing systems, and documents code and processes.",
+    "job_skill_set": [
+      "software development",
+      "system improvement",
+      "documentation",
+      "collaboration",
+      "coding"
+    ],
+    "unified_document": "Job Title: Software Developer. Job Description: Develops and implements software solutions, collaborates with teams to improve existing systems, and documents code and processes. Required Skills: ['software development', 'system improvement', 'documentation', 'collaboration', 'coding']."
+  },
+  {
+    "job_id": "3254195318",
+    "category": "SOFTWARE-DEVELOPER",
+    "job_title": "Software Developer",
+    "job_description": "In this role, the developer writes code, tests applications, and works with stakeholders to deliver functional software products.",
+    "job_skill_set": [
+      "coding",
+      "application testing",
+      "stakeholder communication",
+      "software delivery",
+      "problem-solving"
+    ],
+    "unified_document": "Job Title: Software Developer. Job Description: In this role, the developer writes code, tests applications, and works with stakeholders to deliver functional software products. Required Skills: ['coding', 'application testing', 'stakeholder communication', 'software delivery', 'problem-solving']."
+  },
+  {
+    "job_id": "5591255686",
+    "category": "SOFTWARE-DEVELOPER",
+    "job_title": "Software Developer",
+    "job_description": "The position involves designing software architecture, coding, testing, and maintaining applications to ensure performance and reliability.",
+    "job_skill_set": [
+      "software architecture",
+      "coding",
+      "testing",
+      "application maintenance",
+      "performance tuning"
+    ],
+    "unified_document": "Job Title: Software Developer. Job Description: The position involves designing software architecture, coding, testing, and maintaining applications to ensure performance and reliability. Required Skills: ['software architecture', 'coding', 'testing', 'application maintenance', 'performance tuning']."
+  },
+  {
+    "job_id": "7235274805",
+    "category": "SOFTWARE-DEVELOPER",
+    "job_title": "Software Developer",
+    "job_description": "Develops, tests, and refines software applications, ensuring they meet quality standards and user expectations through continuous improvement.",
+    "job_skill_set": [
+      "application development",
+      "testing",
+      "refinement",
+      "quality assurance",
+      "user satisfaction"
+    ],
+    "unified_document": "Job Title: Software Developer. Job Description: Develops, tests, and refines software applications, ensuring they meet quality standards and user expectations through continuous improvement. Required Skills: ['application development', 'testing', 'refinement', 'quality assurance', 'user satisfaction']."
+  },
+  {
+    "job_id": "4102698413",
+    "category": "SOFTWARE-DEVELOPER",
+    "job_title": "Software Developer",
+    "job_description": "Responsible for coding, debugging, and deploying software solutions, often working within agile teams to deliver features on time.",
+    "job_skill_set": [
+      "coding",
+      "debugging",
+      "deployment",
+      "agile methodologies",
+      "teamwork"
+    ],
+    "unified_document": "Job Title: Software Developer. Job Description: Responsible for coding, debugging, and deploying software solutions, often working within agile teams to deliver features on time. Required Skills: ['coding', 'debugging', 'deployment', 'agile methodologies', 'teamwork']."
+  },
+  {
+    "job_id": "9647026982",
+    "category": "SOFTWARE-DEVELOPER",
+    "job_title": "Software Developer",
+    "job_description": "This role involves creating scalable software applications, troubleshooting issues, and collaborating with cross-disciplinary teams to enhance product functionality.",
+    "job_skill_set": [
+      "scalable application development",
+      "troubleshooting",
+      "collaboration",
+      "product enhancement",
+      "software engineering"
+    ],
+    "unified_document": "Job Title: Software Developer. Job Description: This role involves creating scalable software applications, troubleshooting issues, and collaborating with cross-disciplinary teams to enhance product functionality. Required Skills: ['scalable application development', 'troubleshooting', 'collaboration', 'product enhancement', 'software engineering']."
+  },
+  {
+    "job_id": "5201048709",
+    "category": "SOFTWARE-DEVELOPER",
+    "job_title": "Software Developer",
+    "job_description": "Designs, codes, and tests software applications, ensuring they are efficient, reliable, and aligned with technical specifications.",
+    "job_skill_set": [
+      "software design",
+      "coding",
+      "testing",
+      "efficiency optimization",
+      "technical specifications"
+    ],
+    "unified_document": "Job Title: Software Developer. Job Description: Designs, codes, and tests software applications, ensuring they are efficient, reliable, and aligned with technical specifications. Required Skills: ['software design', 'coding', 'testing', 'efficiency optimization', 'technical specifications']."
+  },
+  {
+    "job_id": "7003039963",
+    "category": "SOFTWARE-DEVELOPER",
+    "job_title": "Software Developer",
+    "job_description": "In this position, the developer creates software solutions, performs code reviews, and collaborates with teams to deliver high-quality applications.",
+    "job_skill_set": [
+      "software creation",
+      "code review",
+      "team collaboration",
+      "quality assurance",
+      "application delivery"
+    ],
+    "unified_document": "Job Title: Software Developer. Job Description: In this position, the developer creates software solutions, performs code reviews, and collaborates with teams to deliver high-quality applications. Required Skills: ['software creation', 'code review', 'team collaboration', 'quality assurance', 'application delivery']."
+  },
+  {
+    "job_id": "8673965587",
+    "category": "SOFTWARE-DEVELOPER",
+    "job_title": "Software Developer",
+    "job_description": "Develops software by analyzing requirements, designing solutions, coding, and testing to ensure functionality and performance.",
+    "job_skill_set": [
+      "requirements analysis",
+      "software design",
+      "coding",
+      "testing",
+      "performance optimization"
+    ],
+    "unified_document": "Job Title: Software Developer. Job Description: Develops software by analyzing requirements, designing solutions, coding, and testing to ensure functionality and performance. Required Skills: ['requirements analysis', 'software design', 'coding', 'testing', 'performance optimization']."
+  },
+  {
+    "job_id": "3883366142",
+    "category": "SOFTWARE-ENGINEER",
+    "job_title": "Software Engineer",
+    "job_description": "A Software Engineer designs, develops, and maintains software applications, ensuring functionality and performance meet user needs. They collaborate with cross-functional teams to deliver high-quality solutions.",
+    "job_skill_set": [
+      "programming",
+      "software development",
+      "problem-solving",
+      "debugging",
+      "version control"
+    ],
+    "unified_document": "Job Title: Software Engineer. Job Description: A Software Engineer designs, develops, and maintains software applications, ensuring functionality and performance meet user needs. They collaborate with cross-functional teams to deliver high-quality solutions. Required Skills: ['programming', 'software development', 'problem-solving', 'debugging', 'version control']."
+  },
+  {
+    "job_id": "1365071013",
+    "category": "SOFTWARE-ENGINEER",
+    "job_title": "Software Engineer",
+    "job_description": "This role involves developing software solutions, writing clean code, and testing applications to ensure reliability. Software Engineers work closely with product teams to implement new features.",
+    "job_skill_set": [
+      "coding",
+      "software testing",
+      "agile methodologies",
+      "collaboration",
+      "debugging"
+    ],
+    "unified_document": "Job Title: Software Engineer. Job Description: This role involves developing software solutions, writing clean code, and testing applications to ensure reliability. Software Engineers work closely with product teams to implement new features. Required Skills: ['coding', 'software testing', 'agile methodologies', 'collaboration', 'debugging']."
+  },
+  {
+    "job_id": "1469446587",
+    "category": "SOFTWARE-ENGINEER",
+    "job_title": "Software Engineer",
+    "job_description": "A Software Engineer is responsible for designing and implementing software systems, troubleshooting issues, and optimizing performance to meet project requirements.",
+    "job_skill_set": [
+      "system design",
+      "coding",
+      "performance optimization",
+      "troubleshooting",
+      "software architecture"
+    ],
+    "unified_document": "Job Title: Software Engineer. Job Description: A Software Engineer is responsible for designing and implementing software systems, troubleshooting issues, and optimizing performance to meet project requirements. Required Skills: ['system design', 'coding', 'performance optimization', 'troubleshooting', 'software architecture']."
+  },
+  {
+    "job_id": "4768535875",
+    "category": "SOFTWARE-ENGINEER",
+    "job_title": "Software Engineer",
+    "job_description": "This position involves developing scalable software solutions, maintaining codebases, and collaborating with teams to deliver robust applications.",
+    "job_skill_set": [
+      "scalability",
+      "software development",
+      "team collaboration",
+      "code maintenance",
+      "problem-solving"
+    ],
+    "unified_document": "Job Title: Software Engineer. Job Description: This position involves developing scalable software solutions, maintaining codebases, and collaborating with teams to deliver robust applications. Required Skills: ['scalability', 'software development', 'team collaboration', 'code maintenance', 'problem-solving']."
+  },
+  {
+    "job_id": "6657658048",
+    "category": "SOFTWARE-ENGINEER",
+    "job_title": "Software Engineer",
+    "job_description": "The Software Engineer develops and tests software applications, ensuring they meet quality standards and functional requirements, often working within Agile teams.",
+    "job_skill_set": [
+      "software testing",
+      "agile",
+      "coding",
+      "quality assurance",
+      "collaboration"
+    ],
+    "unified_document": "Job Title: Software Engineer. Job Description: The Software Engineer develops and tests software applications, ensuring they meet quality standards and functional requirements, often working within Agile teams. Required Skills: ['software testing', 'agile', 'coding', 'quality assurance', 'collaboration']."
+  },
+  {
+    "job_id": "6744543259",
+    "category": "SOFTWARE-ENGINEER",
+    "job_title": "Software Engineer",
+    "job_description": "Responsible for designing software solutions, writing efficient code, and participating in code reviews to improve software quality.",
+    "job_skill_set": [
+      "software design",
+      "coding",
+      "code review",
+      "efficiency",
+      "collaborative development"
+    ],
+    "unified_document": "Job Title: Software Engineer. Job Description: Responsible for designing software solutions, writing efficient code, and participating in code reviews to improve software quality. Required Skills: ['software design', 'coding', 'code review', 'efficiency', 'collaborative development']."
+  },
+  {
+    "job_id": "7975912714",
+    "category": "SOFTWARE-ENGINEER",
+    "job_title": "Software Engineer",
+    "job_description": "This role involves developing new features, fixing bugs, and maintaining existing software systems to ensure optimal performance.",
+    "job_skill_set": [
+      "feature development",
+      "bug fixing",
+      "software maintenance",
+      "performance tuning",
+      "problem-solving"
+    ],
+    "unified_document": "Job Title: Software Engineer. Job Description: This role involves developing new features, fixing bugs, and maintaining existing software systems to ensure optimal performance. Required Skills: ['feature development', 'bug fixing', 'software maintenance', 'performance tuning', 'problem-solving']."
+  },
+  {
+    "job_id": "4430969248",
+    "category": "SOFTWARE-ENGINEER",
+    "job_title": "Software Engineer",
+    "job_description": "A Software Engineer collaborates with stakeholders to understand requirements and translates them into technical specifications and code.",
+    "job_skill_set": [
+      "requirements analysis",
+      "technical specifications",
+      "coding",
+      "stakeholder communication",
+      "collaboration"
+    ],
+    "unified_document": "Job Title: Software Engineer. Job Description: A Software Engineer collaborates with stakeholders to understand requirements and translates them into technical specifications and code. Required Skills: ['requirements analysis', 'technical specifications', 'coding', 'stakeholder communication', 'collaboration']."
+  },
+  {
+    "job_id": "9174942194",
+    "category": "SOFTWARE-ENGINEER",
+    "job_title": "Software Engineer",
+    "job_description": "Designing, developing, and deploying software applications, ensuring they are scalable, reliable, and secure, is a core responsibility of this role.",
+    "job_skill_set": [
+      "software deployment",
+      "scalability",
+      "security",
+      "reliability",
+      "software design"
+    ],
+    "unified_document": "Job Title: Software Engineer. Job Description: Designing, developing, and deploying software applications, ensuring they are scalable, reliable, and secure, is a core responsibility of this role. Required Skills: ['software deployment', 'scalability', 'security', 'reliability', 'software design']."
+  },
+  {
+    "job_id": "1252190181",
+    "category": "SOFTWARE-ENGINEER",
+    "job_title": "Software Engineer",
+    "job_description": "This position involves writing clean, maintainable code, performing code reviews, and ensuring adherence to coding standards.",
+    "job_skill_set": [
+      "clean code",
+      "code reviews",
+      "coding standards",
+      "maintainability",
+      "collaboration"
+    ],
+    "unified_document": "Job Title: Software Engineer. Job Description: This position involves writing clean, maintainable code, performing code reviews, and ensuring adherence to coding standards. Required Skills: ['clean code', 'code reviews', 'coding standards', 'maintainability', 'collaboration']."
+  },
+  {
+    "job_id": "1599023250",
+    "category": "SOFTWARE-ENGINEER",
+    "job_title": "Software Engineer",
+    "job_description": "Develops and maintains software systems, troubleshoots issues, and implements improvements to enhance system performance.",
+    "job_skill_set": [
+      "system troubleshooting",
+      "software maintenance",
+      "performance enhancement",
+      "problem-solving",
+      "software development"
+    ],
+    "unified_document": "Job Title: Software Engineer. Job Description: Develops and maintains software systems, troubleshoots issues, and implements improvements to enhance system performance. Required Skills: ['system troubleshooting', 'software maintenance', 'performance enhancement', 'problem-solving', 'software development']."
+  },
+  {
+    "job_id": "9708019838",
+    "category": "SOFTWARE-ENGINEER",
+    "job_title": "Software Engineer",
+    "job_description": "A Software Engineer participates in designing, coding, testing, and deploying software solutions, often working within Agile teams to meet project deadlines.",
+    "job_skill_set": [
+      "design",
+      "coding",
+      "testing",
+      "deployment",
+      "agile methodologies"
+    ],
+    "unified_document": "Job Title: Software Engineer. Job Description: A Software Engineer participates in designing, coding, testing, and deploying software solutions, often working within Agile teams to meet project deadlines. Required Skills: ['design', 'coding', 'testing', 'deployment', 'agile methodologies']."
+  },
+  {
+    "job_id": "5671509863",
+    "category": "SOFTWARE-ENGINEER",
+    "job_title": "Software Engineer",
+    "job_description": "Responsible for developing software features, debugging code, and ensuring software quality through testing and reviews.",
+    "job_skill_set": [
+      "feature development",
+      "debugging",
+      "software quality",
+      "testing",
+      "code reviews"
+    ],
+    "unified_document": "Job Title: Software Engineer. Job Description: Responsible for developing software features, debugging code, and ensuring software quality through testing and reviews. Required Skills: ['feature development', 'debugging', 'software quality', 'testing', 'code reviews']."
+  },
+  {
+    "job_id": "3359208193",
+    "category": "SOFTWARE-ENGINEER",
+    "job_title": "Software Engineer",
+    "job_description": "This role involves collaborating with product managers and designers to develop user-centric software solutions that meet business needs.",
+    "job_skill_set": [
+      "collaboration",
+      "product development",
+      "user experience",
+      "software design",
+      "teamwork"
+    ],
+    "unified_document": "Job Title: Software Engineer. Job Description: This role involves collaborating with product managers and designers to develop user-centric software solutions that meet business needs. Required Skills: ['collaboration', 'product development', 'user experience', 'software design', 'teamwork']."
+  },
+  {
+    "job_id": "9533909307",
+    "category": "SOFTWARE-ENGINEER",
+    "job_title": "Software Engineer",
+    "job_description": "Design, develop, and optimize software applications, ensuring they are efficient, scalable, and maintainable over time.",
+    "job_skill_set": [
+      "software optimization",
+      "scalability",
+      "maintainability",
+      "performance tuning",
+      "development"
+    ],
+    "unified_document": "Job Title: Software Engineer. Job Description: Design, develop, and optimize software applications, ensuring they are efficient, scalable, and maintainable over time. Required Skills: ['software optimization', 'scalability', 'maintainability', 'performance tuning', 'development']."
+  },
+  {
+    "job_id": "4756616456",
+    "category": "SOFTWARE-ENGINEER",
+    "job_title": "Software Engineer",
+    "job_description": "A Software Engineer writes code, performs testing, and collaborates with teams to deliver reliable software products.",
+    "job_skill_set": [
+      "coding",
+      "software testing",
+      "team collaboration",
+      "reliability",
+      "software delivery"
+    ],
+    "unified_document": "Job Title: Software Engineer. Job Description: A Software Engineer writes code, performs testing, and collaborates with teams to deliver reliable software products. Required Skills: ['coding', 'software testing', 'team collaboration', 'reliability', 'software delivery']."
+  },
+  {
+    "job_id": "4963454537",
+    "category": "SOFTWARE-ENGINEER",
+    "job_title": "Software Engineer",
+    "job_description": "This role involves translating user requirements into technical solutions, developing software, and maintaining documentation.",
+    "job_skill_set": [
+      "requirements translation",
+      "software development",
+      "documentation",
+      "technical writing",
+      "collaboration"
+    ],
+    "unified_document": "Job Title: Software Engineer. Job Description: This role involves translating user requirements into technical solutions, developing software, and maintaining documentation. Required Skills: ['requirements translation', 'software development', 'documentation', 'technical writing', 'collaboration']."
+  },
+  {
+    "job_id": "5959398531",
+    "category": "SOFTWARE-ENGINEER",
+    "job_title": "Software Engineer",
+    "job_description": "Develops, tests, and maintains software applications, ensuring they meet functional and performance standards in a fast-paced environment.",
+    "job_skill_set": [
+      "software development",
+      "testing",
+      "performance standards",
+      "fast-paced environment",
+      "maintenance"
+    ],
+    "unified_document": "Job Title: Software Engineer. Job Description: Develops, tests, and maintains software applications, ensuring they meet functional and performance standards in a fast-paced environment. Required Skills: ['software development', 'testing', 'performance standards', 'fast-paced environment', 'maintenance']."
+  },
+  {
+    "job_id": "6539913513",
+    "category": "SOFTWARE-ENGINEER",
+    "job_title": "Software Engineer",
+    "job_description": "Design and implement software solutions, troubleshoot issues, and collaborate with teams to improve system functionality.",
+    "job_skill_set": [
+      "system design",
+      "troubleshooting",
+      "collaboration",
+      "software implementation",
+      "problem-solving"
+    ],
+    "unified_document": "Job Title: Software Engineer. Job Description: Design and implement software solutions, troubleshoot issues, and collaborate with teams to improve system functionality. Required Skills: ['system design', 'troubleshooting', 'collaboration', 'software implementation', 'problem-solving']."
+  },
+  {
+    "job_id": "9196054740",
+    "category": "SOFTWARE-ENGINEER",
+    "job_title": "Software Engineer",
+    "job_description": "A Software Engineer designs, develops, and maintains software applications, ensuring functionality and performance meet user needs. They collaborate with cross-functional teams to deliver high-quality solutions.",
+    "job_skill_set": [
+      "programming",
+      "software development",
+      "problem-solving",
+      "debugging",
+      "version control"
+    ],
+    "unified_document": "Job Title: Software Engineer. Job Description: A Software Engineer designs, develops, and maintains software applications, ensuring functionality and performance meet user needs. They collaborate with cross-functional teams to deliver high-quality solutions. Required Skills: ['programming', 'software development', 'problem-solving', 'debugging', 'version control']."
+  },
+  {
+    "job_id": "1256354543",
+    "category": "SOFTWARE-ENGINEER",
+    "job_title": "Software Engineer",
+    "job_description": "Software Engineers are responsible for creating and implementing software solutions, often working on coding, testing, and debugging to ensure reliable performance.",
+    "job_skill_set": [
+      "coding",
+      "software testing",
+      "debugging",
+      "collaboration",
+      "software design"
+    ],
+    "unified_document": "Job Title: Software Engineer. Job Description: Software Engineers are responsible for creating and implementing software solutions, often working on coding, testing, and debugging to ensure reliable performance. Required Skills: ['coding', 'software testing', 'debugging', 'collaboration', 'software design']."
+  },
+  {
+    "job_id": "2593811963",
+    "category": "SOFTWARE-ENGINEER",
+    "job_title": "Software Engineer",
+    "job_description": "This role involves developing software applications, maintaining codebases, and working with teams to deliver scalable and efficient software products.",
+    "job_skill_set": [
+      "software development",
+      "teamwork",
+      "scalability",
+      "coding",
+      "maintenance"
+    ],
+    "unified_document": "Job Title: Software Engineer. Job Description: This role involves developing software applications, maintaining codebases, and working with teams to deliver scalable and efficient software products. Required Skills: ['software development', 'teamwork', 'scalability', 'coding', 'maintenance']."
+  },
+  {
+    "job_id": "9310962776",
+    "category": "SOFTWARE-ENGINEER",
+    "job_title": "Software Engineer",
+    "job_description": "A Software Engineer writes, tests, and refines code to build software solutions, often collaborating with product managers and designers to meet project requirements.",
+    "job_skill_set": [
+      "coding",
+      "software testing",
+      "collaboration",
+      "requirements analysis",
+      "agile methodologies"
+    ],
+    "unified_document": "Job Title: Software Engineer. Job Description: A Software Engineer writes, tests, and refines code to build software solutions, often collaborating with product managers and designers to meet project requirements. Required Skills: ['coding', 'software testing', 'collaboration', 'requirements analysis', 'agile methodologies']."
+  },
+  {
+    "job_id": "6885930569",
+    "category": "SOFTWARE-ENGINEER",
+    "job_title": "Software Engineer",
+    "job_description": "This position involves designing software architecture, coding, and troubleshooting issues to ensure robust and efficient software systems.",
+    "job_skill_set": [
+      "software architecture",
+      "coding",
+      "troubleshooting",
+      "performance optimization",
+      "system design"
+    ],
+    "unified_document": "Job Title: Software Engineer. Job Description: This position involves designing software architecture, coding, and troubleshooting issues to ensure robust and efficient software systems. Required Skills: ['software architecture', 'coding', 'troubleshooting', 'performance optimization', 'system design']."
+  },
+  {
+    "job_id": "4596917418",
+    "category": "SOFTWARE-ENGINEER",
+    "job_title": "Software Engineer",
+    "job_description": "Software Engineers develop, test, and deploy software applications, often working in agile environments to meet project deadlines and quality standards.",
+    "job_skill_set": [
+      "software development",
+      "testing",
+      "deployment",
+      "agile",
+      "collaboration"
+    ],
+    "unified_document": "Job Title: Software Engineer. Job Description: Software Engineers develop, test, and deploy software applications, often working in agile environments to meet project deadlines and quality standards. Required Skills: ['software development', 'testing', 'deployment', 'agile', 'collaboration']."
+  },
+  {
+    "job_id": "5126657247",
+    "category": "SOFTWARE-ENGINEER",
+    "job_title": "Software Engineer",
+    "job_description": "Responsible for designing and implementing software solutions, Software Engineers analyze user needs and translate them into technical specifications.",
+    "job_skill_set": [
+      "requirements analysis",
+      "software design",
+      "coding",
+      "problem-solving",
+      "communication"
+    ],
+    "unified_document": "Job Title: Software Engineer. Job Description: Responsible for designing and implementing software solutions, Software Engineers analyze user needs and translate them into technical specifications. Required Skills: ['requirements analysis', 'software design', 'coding', 'problem-solving', 'communication']."
+  },
+  {
+    "job_id": "2560471431",
+    "category": "SOFTWARE-ENGINEER",
+    "job_title": "Software Engineer",
+    "job_description": "This role involves maintaining existing software systems, fixing bugs, and improving performance to ensure continuous operation.",
+    "job_skill_set": [
+      "maintenance",
+      "bug fixing",
+      "performance tuning",
+      "software updates",
+      "troubleshooting"
+    ],
+    "unified_document": "Job Title: Software Engineer. Job Description: This role involves maintaining existing software systems, fixing bugs, and improving performance to ensure continuous operation. Required Skills: ['maintenance', 'bug fixing', 'performance tuning', 'software updates', 'troubleshooting']."
+  },
+  {
+    "job_id": "8317100853",
+    "category": "SOFTWARE-ENGINEER",
+    "job_title": "Software Engineer",
+    "job_description": "Software Engineers collaborate with cross-functional teams to develop innovative software solutions that meet business objectives.",
+    "job_skill_set": [
+      "collaboration",
+      "software development",
+      "innovation",
+      "problem-solving",
+      "teamwork"
+    ],
+    "unified_document": "Job Title: Software Engineer. Job Description: Software Engineers collaborate with cross-functional teams to develop innovative software solutions that meet business objectives. Required Skills: ['collaboration', 'software development', 'innovation', 'problem-solving', 'teamwork']."
+  },
+  {
+    "job_id": "2182467913",
+    "category": "SOFTWARE-ENGINEER",
+    "job_title": "Software Engineer",
+    "job_description": "In this role, the Software Engineer is responsible for coding, testing, and deploying software applications in a fast-paced environment.",
+    "job_skill_set": [
+      "coding",
+      "testing",
+      "deployment",
+      "fast-paced environment",
+      "agile"
+    ],
+    "unified_document": "Job Title: Software Engineer. Job Description: In this role, the Software Engineer is responsible for coding, testing, and deploying software applications in a fast-paced environment. Required Skills: ['coding', 'testing', 'deployment', 'fast-paced environment', 'agile']."
+  },
+  {
+    "job_id": "2161868283",
+    "category": "SOFTWARE-ENGINEER",
+    "job_title": "Software Engineer",
+    "job_description": "The Software Engineer develops scalable software solutions, ensuring code quality and adherence to best practices throughout the development lifecycle.",
+    "job_skill_set": [
+      "scalability",
+      "code quality",
+      "best practices",
+      "software development",
+      "review"
+    ],
+    "unified_document": "Job Title: Software Engineer. Job Description: The Software Engineer develops scalable software solutions, ensuring code quality and adherence to best practices throughout the development lifecycle. Required Skills: ['scalability', 'code quality', 'best practices', 'software development', 'review']."
+  },
+  {
+    "job_id": "4844709605",
+    "category": "SOFTWARE-ENGINEER",
+    "job_title": "Software Engineer",
+    "job_description": "This position involves working on full-stack development, integrating front-end and back-end components to deliver complete software products.",
+    "job_skill_set": [
+      "full-stack development",
+      "front-end",
+      "back-end",
+      "integration",
+      "web technologies"
+    ],
+    "unified_document": "Job Title: Software Engineer. Job Description: This position involves working on full-stack development, integrating front-end and back-end components to deliver complete software products. Required Skills: ['full-stack development', 'front-end', 'back-end', 'integration', 'web technologies']."
+  },
+  {
+    "job_id": "2644444771",
+    "category": "SOFTWARE-ENGINEER",
+    "job_title": "Software Engineer",
+    "job_description": "Software Engineers analyze system requirements, design software solutions, and implement features to meet user and business needs.",
+    "job_skill_set": [
+      "requirements analysis",
+      "software design",
+      "implementation",
+      "user needs",
+      "business requirements"
+    ],
+    "unified_document": "Job Title: Software Engineer. Job Description: Software Engineers analyze system requirements, design software solutions, and implement features to meet user and business needs. Required Skills: ['requirements analysis', 'software design', 'implementation', 'user needs', 'business requirements']."
+  },
+  {
+    "job_id": "3715285240",
+    "category": "SOFTWARE-ENGINEER",
+    "job_title": "Software Engineer",
+    "job_description": "The role involves optimizing software performance, ensuring security, and maintaining code integrity across various platforms.",
+    "job_skill_set": [
+      "performance optimization",
+      "security",
+      "code integrity",
+      "platform compatibility",
+      "testing"
+    ],
+    "unified_document": "Job Title: Software Engineer. Job Description: The role involves optimizing software performance, ensuring security, and maintaining code integrity across various platforms. Required Skills: ['performance optimization', 'security', 'code integrity', 'platform compatibility', 'testing']."
+  },
+  {
+    "job_id": "3092326405",
+    "category": "SOFTWARE-ENGINEER",
+    "job_title": "Software Engineer",
+    "job_description": "This position requires developing APIs, integrating third-party services, and ensuring seamless data flow within applications.",
+    "job_skill_set": [
+      "API development",
+      "integration",
+      "data flow",
+      "third-party services",
+      "software architecture"
+    ],
+    "unified_document": "Job Title: Software Engineer. Job Description: This position requires developing APIs, integrating third-party services, and ensuring seamless data flow within applications. Required Skills: ['API development', 'integration', 'data flow', 'third-party services', 'software architecture']."
+  },
+  {
+    "job_id": "7725575008",
+    "category": "SOFTWARE-ENGINEER",
+    "job_title": "Software Engineer",
+    "job_description": "Software Engineers are tasked with maintaining documentation, writing technical reports, and supporting software deployment processes.",
+    "job_skill_set": [
+      "documentation",
+      "technical writing",
+      "deployment support",
+      "reporting",
+      "software maintenance"
+    ],
+    "unified_document": "Job Title: Software Engineer. Job Description: Software Engineers are tasked with maintaining documentation, writing technical reports, and supporting software deployment processes. Required Skills: ['documentation', 'technical writing', 'deployment support', 'reporting', 'software maintenance']."
+  },
+  {
+    "job_id": "5570097441",
+    "category": "SOFTWARE-ENGINEER",
+    "job_title": "Software Engineer",
+    "job_description": "The role involves participating in code reviews, adhering to coding standards, and continuously improving software quality.",
+    "job_skill_set": [
+      "code review",
+      "coding standards",
+      "quality assurance",
+      "continuous improvement",
+      "best practices"
+    ],
+    "unified_document": "Job Title: Software Engineer. Job Description: The role involves participating in code reviews, adhering to coding standards, and continuously improving software quality. Required Skills: ['code review', 'coding standards', 'quality assurance', 'continuous improvement', 'best practices']."
+  },
+  {
+    "job_id": "2587367781",
+    "category": "SOFTWARE-ENGINEER",
+    "job_title": "Software Engineer",
+    "job_description": "This position requires staying updated with emerging technologies, tools, and industry trends to enhance software development processes.",
+    "job_skill_set": [
+      "technology trends",
+      "tools",
+      "industry knowledge",
+      "learning agility",
+      "innovation"
+    ],
+    "unified_document": "Job Title: Software Engineer. Job Description: This position requires staying updated with emerging technologies, tools, and industry trends to enhance software development processes. Required Skills: ['technology trends', 'tools', 'industry knowledge', 'learning agility', 'innovation']."
+  },
+  {
+    "job_id": "5572162448",
+    "category": "SOFTWARE-ENGINEER",
+    "job_title": "Software Engineer",
+    "job_description": "The role involves working in a team environment to develop, test, and deploy software solutions efficiently and effectively.",
+    "job_skill_set": [
+      "teamwork",
+      "software development",
+      "testing",
+      "deployment",
+      "collaboration"
+    ],
+    "unified_document": "Job Title: Software Engineer. Job Description: The role involves working in a team environment to develop, test, and deploy software solutions efficiently and effectively. Required Skills: ['teamwork', 'software development', 'testing', 'deployment', 'collaboration']."
+  },
+  {
+    "job_id": "7381492998",
+    "category": "AI/ML-ENGINEER",
+    "job_title": "AI/ML Engineer",
+    "job_description": "An AI/ML Engineer develops and implements machine learning models and algorithms to solve complex problems, often working on data-driven projects to enhance product capabilities.",
+    "job_skill_set": [
+      "Python",
+      "Machine Learning",
+      "Deep Learning",
+      "Data Analysis",
+      "TensorFlow",
+      "PyTorch",
+      "Model Deployment"
+    ],
+    "unified_document": "Job Title: AI/ML Engineer. Job Description: An AI/ML Engineer develops and implements machine learning models and algorithms to solve complex problems, often working on data-driven projects to enhance product capabilities. Required Skills: ['Python', 'Machine Learning', 'Deep Learning', 'Data Analysis', 'TensorFlow', 'PyTorch', 'Model Deployment']."
+  },
+  {
+    "job_id": "7940650864",
+    "category": "AI/ML-ENGINEER",
+    "job_title": "AI/ML Engineer",
+    "job_description": "This role involves designing, building, and maintaining machine learning systems, with a focus on improving AI functionalities within products or services.",
+    "job_skill_set": [
+      "Data Mining",
+      "Statistical Analysis",
+      "Neural Networks",
+      "Cloud Computing",
+      "Keras",
+      "Scikit-learn"
+    ],
+    "unified_document": "Job Title: AI/ML Engineer. Job Description: This role involves designing, building, and maintaining machine learning systems, with a focus on improving AI functionalities within products or services. Required Skills: ['Data Mining', 'Statistical Analysis', 'Neural Networks', 'Cloud Computing', 'Keras', 'Scikit-learn']."
+  },
+  {
+    "job_id": "9910654452",
+    "category": "AI/ML-ENGINEER",
+    "job_title": "AI/ML Engineer",
+    "job_description": "An AI/ML Engineer applies machine learning techniques to develop intelligent applications, often collaborating with data scientists and software engineers.",
+    "job_skill_set": [
+      "Algorithm Development",
+      "Data Engineering",
+      "Natural Language Processing",
+      "Computer Vision",
+      "Java",
+      "SQL"
+    ],
+    "unified_document": "Job Title: AI/ML Engineer. Job Description: An AI/ML Engineer applies machine learning techniques to develop intelligent applications, often collaborating with data scientists and software engineers. Required Skills: ['Algorithm Development', 'Data Engineering', 'Natural Language Processing', 'Computer Vision', 'Java', 'SQL']."
+  },
+  {
+    "job_id": "4802831688",
+    "category": "AI/ML-ENGINEER",
+    "job_title": "AI/ML Engineer",
+    "job_description": "This position involves designing scalable machine learning models and integrating them into production environments to support AI-driven features.",
+    "job_skill_set": [
+      "Model Optimization",
+      "Big Data Technologies",
+      "API Development",
+      "Docker",
+      "Kubernetes",
+      "Spark"
+    ],
+    "unified_document": "Job Title: AI/ML Engineer. Job Description: This position involves designing scalable machine learning models and integrating them into production environments to support AI-driven features. Required Skills: ['Model Optimization', 'Big Data Technologies', 'API Development', 'Docker', 'Kubernetes', 'Spark']."
+  },
+  {
+    "job_id": "6779133273",
+    "category": "AI/ML-ENGINEER",
+    "job_title": "AI/ML Engineer",
+    "job_description": "The role focuses on developing machine learning pipelines, training models, and deploying solutions that enhance automation and decision-making processes.",
+    "job_skill_set": [
+      "Pipeline Development",
+      "Data Preprocessing",
+      "Model Training",
+      "Automation",
+      "Git",
+      "Linux"
+    ],
+    "unified_document": "Job Title: AI/ML Engineer. Job Description: The role focuses on developing machine learning pipelines, training models, and deploying solutions that enhance automation and decision-making processes. Required Skills: ['Pipeline Development', 'Data Preprocessing', 'Model Training', 'Automation', 'Git', 'Linux']."
+  },
+  {
+    "job_id": "5610617667",
+    "category": "AI/ML-ENGINEER",
+    "job_title": "AI/ML Engineer",
+    "job_description": "An AI/ML Engineer is responsible for creating algorithms and models that enable machines to learn from data, often working on cutting-edge AI research projects.",
+    "job_skill_set": [
+      "Research Methodologies",
+      "Algorithm Design",
+      "Reinforcement Learning",
+      "Data Visualization",
+      "Matplotlib",
+      "Jupyter"
+    ],
+    "unified_document": "Job Title: AI/ML Engineer. Job Description: An AI/ML Engineer is responsible for creating algorithms and models that enable machines to learn from data, often working on cutting-edge AI research projects. Required Skills: ['Research Methodologies', 'Algorithm Design', 'Reinforcement Learning', 'Data Visualization', 'Matplotlib', 'Jupyter']."
+  },
+  {
+    "job_id": "6201836309",
+    "category": "AI/ML-ENGINEER",
+    "job_title": "AI/ML Engineer",
+    "job_description": "This role involves developing and fine-tuning machine learning models to improve accuracy and efficiency in various applications, including speech and image recognition.",
+    "job_skill_set": [
+      "Model Tuning",
+      "Hyperparameter Optimization",
+      "Speech Recognition",
+      "Image Processing",
+      "OpenCV",
+      "NLTK"
+    ],
+    "unified_document": "Job Title: AI/ML Engineer. Job Description: This role involves developing and fine-tuning machine learning models to improve accuracy and efficiency in various applications, including speech and image recognition. Required Skills: ['Model Tuning', 'Hyperparameter Optimization', 'Speech Recognition', 'Image Processing', 'OpenCV', 'NLTK']."
+  },
+  {
+    "job_id": "5151732940",
+    "category": "AI/ML-ENGINEER",
+    "job_title": "AI/ML Engineer",
+    "job_description": "The position entails building AI models that support natural language understanding, computer vision, and other AI functionalities for enterprise solutions.",
+    "job_skill_set": [
+      "Natural Language Processing",
+      "Computer Vision",
+      "AI Frameworks",
+      "Data Annotation",
+      "BERT",
+      "YOLO"
+    ],
+    "unified_document": "Job Title: AI/ML Engineer. Job Description: The position entails building AI models that support natural language understanding, computer vision, and other AI functionalities for enterprise solutions. Required Skills: ['Natural Language Processing', 'Computer Vision', 'AI Frameworks', 'Data Annotation', 'BERT', 'YOLO']."
+  },
+  {
+    "job_id": "9017897283",
+    "category": "AI/ML-ENGINEER",
+    "job_title": "AI/ML Engineer",
+    "job_description": "An AI/ML Engineer develops scalable machine learning solutions, often working with cloud platforms to deploy models at scale.",
+    "job_skill_set": [
+      "Cloud Platforms",
+      "AWS",
+      "Azure",
+      "Model Deployment",
+      "Serverless Computing",
+      "CI/CD"
+    ],
+    "unified_document": "Job Title: AI/ML Engineer. Job Description: An AI/ML Engineer develops scalable machine learning solutions, often working with cloud platforms to deploy models at scale. Required Skills: ['Cloud Platforms', 'AWS', 'Azure', 'Model Deployment', 'Serverless Computing', 'CI/CD']."
+  },
+  {
+    "job_id": "2117942675",
+    "category": "AI/ML-ENGINEER",
+    "job_title": "AI/ML Engineer",
+    "job_description": "This role involves analyzing large datasets, designing machine learning models, and deploying AI solutions to improve business processes.",
+    "job_skill_set": [
+      "Data Analysis",
+      "Big Data",
+      "Model Deployment",
+      "Data Engineering",
+      "Hadoop",
+      "Kafka"
+    ],
+    "unified_document": "Job Title: AI/ML Engineer. Job Description: This role involves analyzing large datasets, designing machine learning models, and deploying AI solutions to improve business processes. Required Skills: ['Data Analysis', 'Big Data', 'Model Deployment', 'Data Engineering', 'Hadoop', 'Kafka']."
+  },
+  {
+    "job_id": "6907942154",
+    "category": "AI/ML-ENGINEER",
+    "job_title": "AI/ML Engineer",
+    "job_description": "The engineer is responsible for creating intelligent systems by applying machine learning algorithms and ensuring their integration into existing platforms.",
+    "job_skill_set": [
+      "System Integration",
+      "Algorithm Optimization",
+      "Data Pipelines",
+      "Python",
+      "Spark",
+      "Flask"
+    ],
+    "unified_document": "Job Title: AI/ML Engineer. Job Description: The engineer is responsible for creating intelligent systems by applying machine learning algorithms and ensuring their integration into existing platforms. Required Skills: ['System Integration', 'Algorithm Optimization', 'Data Pipelines', 'Python', 'Spark', 'Flask']."
+  },
+  {
+    "job_id": "3831617991",
+    "category": "AI/ML-ENGINEER",
+    "job_title": "AI/ML Engineer",
+    "job_description": "This position involves researching and developing new machine learning techniques, as well as implementing them in real-world applications.",
+    "job_skill_set": [
+      "Research & Development",
+      "Algorithm Innovation",
+      "Model Implementation",
+      "Python",
+      "C++",
+      "Matlab"
+    ],
+    "unified_document": "Job Title: AI/ML Engineer. Job Description: This position involves researching and developing new machine learning techniques, as well as implementing them in real-world applications. Required Skills: ['Research & Development', 'Algorithm Innovation', 'Model Implementation', 'Python', 'C++', 'Matlab']."
+  },
+  {
+    "job_id": "2558982537",
+    "category": "AI/ML-ENGINEER",
+    "job_title": "AI/ML Engineer",
+    "job_description": "An AI/ML Engineer collaborates with cross-functional teams to develop AI-powered products, ensuring models meet performance and scalability requirements.",
+    "job_skill_set": [
+      "Cross-functional Collaboration",
+      "Product Development",
+      "Performance Tuning",
+      "Scalability",
+      "Agile Methodologies",
+      "JIRA"
+    ],
+    "unified_document": "Job Title: AI/ML Engineer. Job Description: An AI/ML Engineer collaborates with cross-functional teams to develop AI-powered products, ensuring models meet performance and scalability requirements. Required Skills: ['Cross-functional Collaboration', 'Product Development', 'Performance Tuning', 'Scalability', 'Agile Methodologies', 'JIRA']."
+  },
+  {
+    "job_id": "2280242820",
+    "category": "AI/ML-ENGINEER",
+    "job_title": "AI/ML Engineer",
+    "job_description": "This role involves maintaining and updating machine learning models, monitoring their performance, and retraining as necessary to ensure optimal results.",
+    "job_skill_set": [
+      "Model Monitoring",
+      "Retraining",
+      "Performance Metrics",
+      "Logging",
+      "Model Versioning",
+      "MLflow"
+    ],
+    "unified_document": "Job Title: AI/ML Engineer. Job Description: This role involves maintaining and updating machine learning models, monitoring their performance, and retraining as necessary to ensure optimal results. Required Skills: ['Model Monitoring', 'Retraining', 'Performance Metrics', 'Logging', 'Model Versioning', 'MLflow']."
+  },
+  {
+    "job_id": "9085748675",
+    "category": "AI/ML-ENGINEER",
+    "job_title": "AI/ML Engineer",
+    "job_description": "The engineer is tasked with developing AI solutions that can be integrated into various platforms, emphasizing robustness and efficiency.",
+    "job_skill_set": [
+      "Robustness",
+      "Efficiency",
+      "API Integration",
+      "Software Engineering",
+      "Testing",
+      "Documentation"
+    ],
+    "unified_document": "Job Title: AI/ML Engineer. Job Description: The engineer is tasked with developing AI solutions that can be integrated into various platforms, emphasizing robustness and efficiency. Required Skills: ['Robustness', 'Efficiency', 'API Integration', 'Software Engineering', 'Testing', 'Documentation']."
+  },
+  {
+    "job_id": "7089838007",
+    "category": "AI/ML-ENGINEER",
+    "job_title": "AI/ML Engineer",
+    "job_description": "This role involves applying machine learning to real-time data streams, enabling systems to adapt and respond promptly.",
+    "job_skill_set": [
+      "Real-time Processing",
+      "Stream Analytics",
+      "Kafka",
+      "Apache Flink",
+      "Low Latency",
+      "Event-Driven Architecture"
+    ],
+    "unified_document": "Job Title: AI/ML Engineer. Job Description: This role involves applying machine learning to real-time data streams, enabling systems to adapt and respond promptly. Required Skills: ['Real-time Processing', 'Stream Analytics', 'Kafka', 'Apache Flink', 'Low Latency', 'Event-Driven Architecture']."
+  },
+  {
+    "job_id": "1656720064",
+    "category": "AI/ML-ENGINEER",
+    "job_title": "AI/ML Engineer",
+    "job_description": "An AI/ML Engineer focuses on developing models that support automation, predictive analytics, and intelligent decision-making in business environments.",
+    "job_skill_set": [
+      "Predictive Analytics",
+      "Automation",
+      "Decision Support",
+      "Business Intelligence",
+      "Data Modeling",
+      "Power BI"
+    ],
+    "unified_document": "Job Title: AI/ML Engineer. Job Description: An AI/ML Engineer focuses on developing models that support automation, predictive analytics, and intelligent decision-making in business environments. Required Skills: ['Predictive Analytics', 'Automation', 'Decision Support', 'Business Intelligence', 'Data Modeling', 'Power BI']."
+  },
+  {
+    "job_id": "2079146222",
+    "category": "AI/ML-ENGINEER",
+    "job_title": "AI/ML Engineer",
+    "job_description": "This position involves working on the end-to-end lifecycle of machine learning models, from data collection to deployment and monitoring.",
+    "job_skill_set": [
+      "End-to-End ML Lifecycle",
+      "Data Collection",
+      "Model Deployment",
+      "Monitoring",
+      "Data Engineering",
+      "Automation"
+    ],
+    "unified_document": "Job Title: AI/ML Engineer. Job Description: This position involves working on the end-to-end lifecycle of machine learning models, from data collection to deployment and monitoring. Required Skills: ['End-to-End ML Lifecycle', 'Data Collection', 'Model Deployment', 'Monitoring', 'Data Engineering', 'Automation']."
+  }
+]

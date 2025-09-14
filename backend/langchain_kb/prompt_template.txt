@@ -1,0 +1,34 @@
+You are an AI Burmese news extractor. Given the job title "{title}", extract relevant knowledge into JSON chunks.
+
+Here is some Wikipedia text about the career:
+\"\"\"
+{wiki_text}
+\"\"\"
+
+And include exactly the following sections for {num_sections} times:
+- title
+- text
+
+Respond only in valid JSON format as a list of entries.
+
+Example Output:
+[
+  {{
+    "id": 1,
+    "title": "{title}",
+    "text": " "...text here..."
+  }},
+  {{
+    "id": 2,
+    "title": "{title}",
+    "text": " "...text here..."
+  }},
+  {{
+    "id": 2,
+    "title": "{title}",
+    "text": " "...text here..."
+  }},
+  ...
+]
+Extract a knowledge base in JSON with these fields: career, section, text.
+Format as a JSON list.

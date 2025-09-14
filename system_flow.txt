@@ -1,0 +1,150 @@
+
+SYSTEM FLOWCHART - Du-Won Career Pathfinder
+
+This document outlines the flow of data and user interaction through the frontend, API, backend services, and data layers.
+
+==================================================
+I. USER INTERACTION (Frontend - React)
+==================================================
+
+A. Career Quiz (/src/components/CareerQuiz.tsx)
+------------------------------------------------
+1. User selects answers to quiz questions.
+2. User clicks "Submit".
+3. Frontend determines which backend endpoint to call based on the quiz type (CS or General).
+   -> Calls either `/api/career-quiz/cs` or `/api/career-quiz`.
+4. Frontend receives a JSON response with recommendations and source documents.
+5. The response is displayed to the user.
+
+B. CV Upload & Analysis (/src/components/CvUpload.tsx)
+-------------------------------------------------------
+1. User selects a PDF file for their CV.
+2. Frontend sends the file to the backend.
+   -> Calls POST `/api/upload-cv`.
+3. Backend responds with the extracted raw text from the PDF.
+4. Frontend receives the raw text and immediately sends it back for analysis.
+   -> Calls POST `/api/analyze-cv-rag`.
+5. Backend responds with a JSON object containing career analysis and recommendations.
+6. The analysis is displayed to the user.
+
+C. General Chatbot (/src/components/Chatbot.tsx)
+-------------------------------------------------
+1. User types a message in the chat interface.
+2. Frontend sends the message and conversation history to the backend for a streaming response.
+   -> Calls POST `/api/chat/stream`.
+3. Frontend receives a stream of data chunks (tokens, sources, etc.).
+4. The response is progressively rendered in the chat window.
+
+D. Knowledge Base Engineering (/src/components/DeveloperInsights.tsx)
+----------------------------------------------------------------------
+1. (For Developers/Admins) User defines topics and sections to build a knowledge base.
+2. User clicks "Generate KB".
+   -> Calls POST `/api/kb/generate`.
+3. Backend responds with the generated knowledge base content from Wikipedia.
+4. User can then create a temporary RAG chain from this KB.
+   -> Calls POST `/api/kb/test-setup`.
+5. User can chat with this temporary knowledge base.
+   -> Calls POST `/api/kb/test-chat/stream`.
+
+==================================================
+II. API ENDPOINTS (Backend - FastAPI - main.py)
+==================================================
+
+/api/career-quiz
+/api/career-quiz/cs
+    - Receives: User's quiz answers.
+    - Processes: Forwards to the Career Recommendation Service.
+    - Returns: JSON with career recommendations.
+
+/api/upload-cv
+    - Receives: A PDF file.
+    - Processes: Forwards to the CV Processing Service to extract text.
+    - Returns: JSON with the raw text content of the CV.
+
+/api/analyze-cv-rag
+    - Receives: Raw text from a CV.
+    - Processes: Forwards to the CV Analysis Service.
+    - Returns: JSON with career analysis and recommendations.
+
+/api/chat/stream
+    - Receives: User message and chat history.
+    - Processes: Forwards to the Streaming RAG Service.
+    - Returns: A text/event-stream for real-time response.
+
+/api/kb/generate
+    - Receives: Topics and sections.
+    - Processes: Forwards to the Knowledge Base Generation Service.
+    - Returns: JSON array of generated knowledge base articles.
+
+/api/kb/test-setup
+    - Receives: Knowledge base data.
+    - Processes: Creates a temporary in-memory RAG chain.
+    - Returns: Status confirmation.
+
+/api/kb/test-chat/stream
+    - Receives: User message.
+    - Processes: Chats with the temporary RAG chain.
+    - Returns: A streaming response.
+
+==================================================
+III. BACKEND SERVICES & LOGIC (Python)
+==================================================
+
+A. Career Recommendation Service (main.py -> llm_services.py)
+--------------------------------------------------------------
+1. [CS Quiz] Input data is passed to `classification/run.py`.
+   -> `predict_career()` loads `career_model.pkl` and `preprocessing_tools.pkl` to classify the user's profile into a predicted career (e.g., "Software Engineer").
+2. A detailed prompt is constructed based on the quiz answers or the predicted career.
+3. The service calls `get_rag_chain_for_model()` to get a pre-configured LangChain RAG (Retrieval-Augmented Generation) chain.
+4. The RAG chain is invoked with the user's query.
+   -> The chain first retrieves relevant documents from the Data Layer (ChromaDB).
+   -> The documents and the query are passed to an LLM (Ollama or Gemini).
+5. The final answer is returned.
+
+B. CV Processing & Analysis Service (main.py -> llm_services.py)
+------------------------------------------------------------------
+1. [Text Extraction] `extract_pdf_text_cached()` uses the `pypdf` library to read text from the uploaded PDF file.
+2. [Analysis] `extract_keywords_from_text_spacy()` uses the `spacy` library to extract key skills and terms from the CV text.
+3. A prompt is constructed using these keywords.
+4. The service gets the RAG chain (same as above) and invokes it to get recommendations based on the CV's content.
+5. The final analysis is returned.
+
+C. Streaming RAG Service (main.py -> llm_services.py)
+-------------------------------------------------------
+1. `get_streaming_rag_response()` is called with the user's message and history.
+2. It invokes the RAG chain's `astream` method.
+3. As the LLM generates the response token by token, the service yields these tokens back to the API layer, which streams them to the user.
+
+D. Knowledge Base Generation Service (main.py -> langchain_kb/expand/wiki_expander.py)
+--------------------------------------------------------------------------------------
+1. `WikiKBGenerator` receives the topics.
+2. For each topic, it uses the `wikipedia` library to search for and download relevant articles.
+3. It may use an LLM to summarize or re-structure the content from Wikipedia to fit the desired format.
+4. The generated text is returned.
+
+==================================================
+IV. DATA & PERSISTENCE LAYER
+==================================================
+
+A. Vector Database (ChromaDB)
+-----------------------------
+- Location: `backend/all_min_chromadb/`
+- Contains: Embeddings (numerical representations) of the knowledge base documents (job descriptions, skills, career paths).
+- Used By: The RAG chain in all services to find relevant context for user queries. The retriever component of the chain queries this database.
+
+B. Machine Learning Models
+--------------------------
+- Location: `backend/classification/`
+- Files: `career_model.pkl`, `preprocessing_tools.pkl`
+- Used By: The CS Career Quiz service (`/api/career-quiz/cs`) to predict a user's career path from their answers.
+
+C. Raw Data
+-----------
+- Location: `backend/data/`
+- Files: `all_job_post.csv`, etc.
+- Used For: Initial creation of the ChromaDB vector store. This is the source of truth for the knowledge base.
+
+D. LLMs (Large Language Models)
+-------------------------------
+- Type: Pluggable (Ollama, Gemini, etc.) via `llm_services.py`.
+- Used By: The RAG chain to generate human-like answers based on the user's query and the context retrieved from ChromaDB. Also used in KB generation.

@@ -1,0 +1,231 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Definition of the design system. All colors, gradients, fonts, etc should be defined here. 
+All colors MUST be HSL.
+*/
+
+@layer base {
+  :root {
+    /* Standardized spacing scale */
+    --spacing-xs: 0.5rem;   /* 8px */
+    --spacing-sm: 0.75rem;  /* 12px */
+    --spacing-md: 1rem;     /* 16px */
+    --spacing-lg: 1.5rem;   /* 24px */
+    --spacing-xl: 2rem;     /* 32px */
+    --spacing-2xl: 3rem;    /* 48px */
+    --spacing-3xl: 4rem;    /* 64px */
+
+    /* Typography scale */
+    --text-xs: 0.75rem;     /* 12px */
+    --text-sm: 0.875rem;    /* 14px */
+    --text-base: 1rem;      /* 16px */
+    --text-lg: 1.125rem;    /* 18px */
+    --text-xl: 1.25rem;     /* 20px */
+    --text-2xl: 1.5rem;     /* 24px */
+    --text-3xl: 1.875rem;   /* 30px */
+    --text-4xl: 2.25rem;    /* 36px */
+
+    /* Main background - Deep academic blue */
+    --background: 221 39% 11%;
+    --foreground: 210 40% 98%;
+
+    /* Cards and surfaces */
+    --card: 221 39% 11%;
+    --card-foreground: 210 40% 98%;
+
+    --popover: 221 39% 11%;
+    --popover-foreground: 210 40% 98%;
+
+    /* Career section - Professional dark teal gradient */
+    --career-primary: 180 60% 25%;
+    --career-secondary: 180 50% 30%;
+    --career-accent: 180 40% 35%;
+    --career-foreground: 210 40% 98%;
+
+    /* Developer section - Tech-focused gradient */
+    --developer-primary: 210 80% 35%;
+    --developer-secondary: 210 70% 40%;
+    --developer-accent: 210 60% 45%;
+    --developer-foreground: 210 40% 98%;
+
+    /* System colors */
+    --primary: 197 37% 24%;
+    --primary-foreground: 210 40% 98%;
+
+    --secondary: 221 39% 16%;
+    --secondary-foreground: 210 40% 98%;
+
+    --muted: 221 39% 16%;
+    --muted-foreground: 215 20.2% 65.1%;
+
+    --accent: 180 40% 35%;
+    --accent-foreground: 221 39% 11%;
+
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 210 40% 98%;
+
+    --border: 221 39% 18%;
+    --input: 221 39% 18%;
+    --ring: 180 40% 35%;
+
+    --radius: 0.75rem;
+
+    /* Custom gradients for sections */
+    --career-gradient: linear-gradient(135deg, hsl(var(--career-primary)), hsl(var(--career-secondary)));
+    --developer-gradient: linear-gradient(135deg, hsl(var(--developer-primary)), hsl(var(--developer-secondary)));
+    --main-gradient: linear-gradient(135deg, hsl(221 39% 8%), hsl(221 39% 12%));
+
+    /* Animation variables */
+    --transition-smooth: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+    --transition-bounce: all 0.6s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+
+    /* Shadows */
+    --shadow-career: 0 20px 40px -10px hsl(var(--career-primary) / 0.3);
+    --shadow-developer: 0 20px 40px -10px hsl(var(--developer-primary) / 0.3);
+    --shadow-glow: 0 0 50px hsl(var(--accent) / 0.2);
+  }
+
+  .dark {
+    --background: 222.2 84% 4.9%;
+    --foreground: 210 40% 98%;
+
+    --card: 222.2 84% 4.9%;
+    --card-foreground: 210 40% 98%;
+
+    --popover: 222.2 84% 4.9%;
+    --popover-foreground: 210 40% 98%;
+
+    --primary: 210 40% 98%;
+    --primary-foreground: 222.2 47.4% 11.2%;
+
+    --secondary: 217.2 32.6% 17.5%;
+    --secondary-foreground: 210 40% 98%;
+
+    --muted: 217.2 32.6% 17.5%;
+    --muted-foreground: 215 20.2% 65.1%;
+
+    --accent: 217.2 32.6% 17.5%;
+    --accent-foreground: 210 40% 98%;
+
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 210 40% 98%;
+
+    --border: 217.2 32.6% 17.5%;
+    --input: 217.2 32.6% 17.5%;
+    --ring: 212.7 26.8% 83.9%;
+    --sidebar-background: 240 5.9% 10%;
+    --sidebar-foreground: 240 4.8% 95.9%;
+    --sidebar-primary: 224.3 76.3% 48%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 240 3.7% 15.9%;
+    --sidebar-accent-foreground: 240 4.8% 95.9%;
+    --sidebar-border: 240 3.7% 15.9%;
+    --sidebar-ring: 217.2 91.2% 59.8%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+  }
+}
+
+@layer components {
+  /* Standardized container component */
+  .container-sm {
+    @apply mx-auto max-w-2xl px-4 sm:px-6;
+  }
+  
+  .container-md {
+    @apply mx-auto max-w-4xl px-4 sm:px-6 lg:px-8;
+  }
+  
+  .container-lg {
+    @apply mx-auto max-w-6xl px-4 sm:px-6 lg:px-8;
+  }
+
+  /* Standardized section padding */
+  .section {
+    @apply py-8 sm:py-12 lg:py-16;
+  }
+
+  .section-sm {
+    @apply py-6 sm:py-8;
+  }
+
+  /* Typography utilities */
+  .heading-hero {
+    @apply text-3xl sm:text-4xl lg:text-5xl font-bold leading-tight;
+  }
+
+  .heading-section {
+    @apply text-2xl sm:text-3xl font-bold;
+  }
+
+  .heading-card {
+    @apply text-xl sm:text-2xl font-bold;
+  }
+
+  /* Card standardization */
+  .card-base {
+    @apply rounded-xl border border-white/10 bg-white/10 backdrop-blur-sm;
+  }
+
+  .card-content {
+    @apply p-4 sm:p-6;
+  }
+
+  /* Button standardization */
+  .btn-primary {
+    @apply px-6 py-3 rounded-lg bg-career-accent text-white font-medium hover:bg-career-accent/90 transition-colors;
+  }
+
+  .btn-secondary {
+    @apply px-6 py-3 rounded-lg border border-white/20 bg-white/10 text-white font-medium hover:bg-white/20 transition-colors;
+  }
+
+  /* Form element standardization */
+  .input-base {
+    @apply w-full px-4 py-3 rounded-lg border border-white/20 bg-white/10 text-white placeholder:text-white/60 focus:border-accent focus:outline-none focus:ring-2 focus:ring-accent/20;
+  }
+
+  /* Scrollbar styles for job sections */
+  .scrollable-sections {
+    scrollbar-width: thin;
+    scrollbar-color: hsl(215 25% 27%) hsl(220 39% 11%);
+  }
+
+  .scrollable-sections::-webkit-scrollbar {
+    width: 6px;
+  }
+
+  .scrollable-sections::-webkit-scrollbar-track {
+    background: hsl(220 39% 11%);
+    border-radius: 3px;
+  }
+
+  .scrollable-sections::-webkit-scrollbar-thumb {
+    background: hsl(215 25% 27%);
+    border-radius: 3px;
+    transition: background-color 0.2s ease;
+  }
+
+  .scrollable-sections::-webkit-scrollbar-thumb:hover {
+    background: hsl(215 25% 35%);
+  }
+
+  /* Container hover effects for better UX */
+  .job-section-container {
+    @apply transition-all duration-200 hover:bg-slate-700/70;
+  }
+
+  .job-section-container:hover .section-remove-btn {
+    @apply opacity-100;
+  }
+}
