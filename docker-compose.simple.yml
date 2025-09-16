@@ -1,0 +1,39 @@
+version: '3.8'
+
+services:
+  # Backend API Service
+  backend:
+    build: 
+      context: ./backend
+      dockerfile: Dockerfile
+    ports:
+      - "8000:8000"
+    env_file:
+      - ./backend/.env
+    volumes:
+      - ./backend/all_min_chromadb:/app/all_min_chromadb
+      - ./backend/chroma_db_jobs:/app/chroma_db_jobs
+      - ./backend/classification:/app/classification
+      - ./backend/data:/app/data
+    networks:
+      - career-pathfinder
+    restart: unless-stopped
+
+  # Frontend Service
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    ports:
+      - "3000:80"
+    depends_on:
+      - backend
+    networks:
+      - career-pathfinder
+    restart: unless-stopped
+    environment:
+      - REACT_APP_API_URL=http://localhost:8000
+
+networks:
+  career-pathfinder:
+    driver: bridge
