@@ -1,4 +1,4 @@
-# Du Won Career Pathfinder 🚀
+# Du Won AI-Powered Career Explorer and Knowledge Base Builder 🚀
 
 **A Comprehensive RAG-Powered Career Guidance Platform**
 
